@@ -1,0 +1,624 @@
+# newdoc
+# sent_id = 1
+# text = It is hers.
+# previous = Which person owns this?
+# comment = copular subject
+1	It	it	PRON	PERS-SG	_	3	nsubj	_	_
+2	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	Period	_	3	punct	_	_
+
+# sent_id = 2
+# text = It's hers.
+# previous = Which person owns this?
+# comment = abbreviated copular subject
+1	It	it	PRON	PERS-SG	_	3	nsubj	_	SpaceAfter=No
+2	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	Period	_	3	punct	_	_
+
+# sent_id = 3
+# text = It's all hers!
+# previous = Which person owns this?
+# comment = predeterminer modifier
+1	It	it	PRON	PERS-SG	_	4	nsubj	_	SpaceAfter=No
+2	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	all	all	PRON	TOT-SG	Case=Nom	4	det:predet	_	_
+4	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
+5	!	!	PUNCT	ExclMark	_	4	punct	_	_
+
+# sent_id = 4
+# text = It's mostly hers.
+# previous = Which person owns this?
+# comment = adverbial modifier
+1	It	it	PRON	PERS-SG	_	4	nsubj	_	SpaceAfter=No
+2	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	mostly	most	ADV	RB	_	4	advmod	_	_
+4	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	Period	_	4	punct	_	_
+
+# sent_id = 5
+# text = It's not hers!
+# comment = negation 
+1	It	it	PRON	PERS-SG	_	4	nsubj	_	SpaceAfter=No
+2	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	not	not	PART	PART	Polarity=Neg	4	advmod	_	_
+4	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
+5	!	!	PUNCT	ExclMark	_	4	punct	_	_
+
+# sent_id = 6
+# text = It isn't hers.
+# previous = Does this belong to Alex?
+# comment = abbreviated negation 
+1	It	it	PRON	PERS-SG	_	4	nsubj	_	_
+2	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	SpaceAfter=No
+3	n't	not	PART	PART	Polarity=Neg	4	advmod	_	_
+4	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	Period	_	4	punct	_	_
+
+# sent_id = 7
+# text = it aint hers
+# previous = Does this belong to Alex?
+# comment = informal negation 
+1	it	it	PRON	PERS-SG	_	4	nsubj	_	_
+2	ai	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	SpaceAfter=No
+3	nt	not	PART	PART	Polarity=Neg	4	advmod	_	_
+4	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	_
+
+# sent_id = 8
+# text = The car is hers.
+# previous = Does the car belong to Alex?
+# comment = copular object 
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	4	nsubj	_	_
+3	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	Period	_	4	punct	_	_
+
+# sent_id = 9
+# text = The car's hers.
+# previous = Does the car belong to Alex?
+# comment = abbreviated copular object 
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	4	nsubj	_	SpaceAfter=No
+3	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	Period	_	4	punct	_	_
+
+# sent_id = 10
+# text = The car's all hers!
+# previous = Does the car belong to Alex?
+# comment = abbreviated copular object with predeterminer modifier
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	SpaceAfter=No
+3	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	all	all	PRON	TOT-SG	Case=Nom	5	nmod	_	_
+5	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
+6	!	!	PUNCT	ExclMark	_	5	punct	_	_
+
+# sent_id = 11
+# text = The car's mostly hers.
+# previous = Does the car belong to Alex?
+# comment = abbreviated copular object with adverbial modifier
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	SpaceAfter=No
+3	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	mostly	most	ADV	RB	_	5	advmod	_	_
+5	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	Period	_	5	punct	_	_
+
+# sent_id = 12
+# text = The car's not hers!
+# previous = Does the car belong to Alex?
+# comment = abbreviated copular object with negation 
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	SpaceAfter=No
+3	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	not	not	PART	PART	Polarity=Neg	5	advmod	_	_
+5	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
+6	!	!	PUNCT	ExclMark	_	5	punct	_	_
+
+# sent_id = 13
+# text = The car isn't hers.
+# previous = Does the car belong to Alex?
+# comment = copular object with abbreviated negation
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
+3	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	SpaceAfter=No
+4	n't	not	PART	PART	Polarity=Neg	5	advmod	_	_
+5	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	Period	_	5	punct	_	_
+
+# sent_id = 14
+# text = The car aint hers
+# previous = Does the car belong to Alex?
+# comment = copular object with informal negation
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
+3	ai	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	SpaceAfter=No
+4	nt	not	PART	PART	Polarity=Neg	5	advmod	_	_
+5	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	_
+
+# sent_id = 15
+# text = Any car of hers sells quickly.
+# previous = Will Alex's car sell quickly?
+# comment = of genitive in subject 
+1	Any	any	DET	DT	PronType=Ind	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
+3	of	of	ADP	E	_	4	case	_	_
+4	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod	_	_
+5	sells	sell	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	quickly	quickly	ADV	RB	_	5	advmod	_	SpaceAfter=No
+7	.	.	PUNCT	Period	_	5	punct	_	_
+
+# sent_id = 16
+# text = There is hers.
+# previous = Where is Alex's car?
+# comment = expositional subject
+1	There	there	PRON	EX	_	2	expl	_	_
+2	is	be	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nsubj	_	SpaceAfter=No
+4	.	.	PUNCT	Period	_	2	punct	_	_
+
+# sent_id = 17
+# text = The car is at hers.
+# previous = Where is Alex's car?
+# comment = complement to be verb
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	is	be	VERB	PRES	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	at	at	ADP	E	_	5	case	_	_
+5	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	xcomp	_	SpaceAfter=No
+6	.	.	PUNCT	Period	_	3	punct	_	_
+
+# sent_id = 18
+# text = Hers is nice.
+# previous = What do you think of Alex's car?
+# comment = copular subject with adjective
+1	Hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nsubj	_	_
+2	is	be	AUX	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	nice	quick	ADJ	A	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	Period	_	3	punct	_	_
+
+# sent_id = 19
+# text = Hers drove responsively.
+# previous = How did Alex's car drive?
+# comment = subject to irregular intransitive verb
+1	Hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nsubj	_	_
+2	drove	drive	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	responsively	responsive	ADV	RB	_	2	advmod	_	SpaceAfter=No
+4	.	.	PUNCT	Period	_	2	punct	_	_
+
+# sent_id = 20
+# text = Hers accelerated.
+# comment = subject to regular intransitive verb
+# previous = What did Alex's car do?
+1	Hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nsubj	_	_
+2	accelerated	accelerate	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	Period	_	2	punct	_	_
+
+# sent_id = 21
+# text = Hers hit bumps.
+# previous = What did Alex's car hit?
+# comment = subject to regular transitive verb
+1	Hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nsubj	_	_
+2	hit	hit	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	bumps	bump	NOUN	NNS	Number=Plur	2	obj	_	SpaceAfter=No
+4	.	.	PUNCT	Period	_	2	punct	_	_
+
+# sent_id = 22
+# text = The dealer gave hers fresh paint.
+# previous = What did the dealer give to Alex's car?
+# comment = indirect object (dative)
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	gave	give	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	iobj	_	_
+5	fresh	fresh	ADJ	A	_	6	amod	_	_
+6	paint	paint	NOUN	NN	Number=Sing	3	obj	_	SpaceAfter=No
+7	.	.	PUNCT	Period	_	3	punct	_	_
+
+# sent_id = 23
+# text = Dealers saw hers.
+# previous = Which cars did dealers see?
+# comment = direct object to irregular transitive verb (accusative, absolutive) 
+1	Dealers	dealer	NOUN	_	Number=Plur	2	nsubj	_	_
+2	saw	see	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	obj	_	SpaceAfter=No
+4	.	.	PUNCT	Period	_	2	punct	_	_
+
+# sent_id = 24
+# text = The dealers liked that hers cleaned easily.
+# previous = What did the dealers like about Alex's car? (nominative, ergative)
+# comment = subject of regular verb (clean) in complement of regular verb (like)
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealers	dealer	NOUN	NNS	Number=Plur	3	nsubj	_	_
+3	liked	like	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	that	that	SCONJ	_	_	6	mark	_	_
+5	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
+6	cleaned	clean	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
+7	easily	easy	ADV	RB	_	6	advmod	_	SpaceAfter=No
+8	.	.	PUNCT	Period	_	3	punct	_	_
+
+# sent_id = 25
+# text = The dealers liked that hers sold quickly.
+# previous = What did the dealers like about Alex's car?
+# comment = subject of irregular verb (sell) in complement of regular verb (like)
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealers	dealer	NOUN	NNS	Number=Plur	3	nsubj	_	_
+3	liked	like	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	that	that	SCONJ	_	_	6	mark	_	_
+5	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
+6	sold	sell	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+7	quickly	quickly	ADV	RB	_	6	advmod	_	SpaceAfter=No
+8	.	.	PUNCT	Period	_	3	punct	_	_
+
+# sent_id = 26
+# text = The dealers knew that hers cleaned easily.
+# previous = What did the dealers know about Alex's car?
+# comment = subject of regular verb (clean) in complement of irregular verb (know)
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealers	dealer	NOUN	NNS	Number=Plur	3	nsubj	_	_
+3	knew	know	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	that	that	SCONJ	_	_	6	mark	_	_
+5	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
+6	cleaned	clean	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
+7	easily	easy	ADV	RB	_	6	advmod	_	SpaceAfter=No
+8	.	.	PUNCT	Period	_	3	punct	_	_
+
+# sent_id = 27
+# text = The dealers knew that hers sold quickly.
+# previous = What did the dealers know about Alex's car?
+# comment = subject of irregular verb (sell) in complement of irregular verb (know)
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealers	dealer	NOUN	NNS	Number=Plur	3	nsubj	_	_
+3	knew	know	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	that	that	SCONJ	_	_	6	mark	_	_
+5	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
+6	sold	sell	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+7	quickly	quickly	ADV	RB	_	6	advmod	_	SpaceAfter=No
+8	.	.	PUNCT	Period	_	3	punct	_	_
+
+# sent_id = 28
+# text = Dealers like seeing hers.
+# previous = Did the dealers like seeing Alex's car?
+# comment = direct object of irregular infinitive verb (see) in complement of regular verb (like)
+1	Dealers	dealer	NOUN	_	Number=Plur	2	nsubj	_	_
+2	like	like	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	seeing	see	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Inf	2	xcomp	_	_
+4	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obj	_	SpaceAfter=No
+5	.	.	PUNCT	Period	_	2	punct	_	_
+
+# sent_id = 29
+# text = Dealers like cleaning hers.
+# previous = Did the dealers like cleaning Alex's car?
+# comment = direct object of regular infinitive verb (clean) in complement of regular verb (like)
+1	Dealers	dealer	NOUN	_	Number=Plur	2	nsubj	_	_
+2	like	like	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	cleaning	clean	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Inf	2	xcomp	_	_
+4	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obj	_	SpaceAfter=No
+5	.	.	PUNCT	Period	_	2	punct	_	_
+
+# sent_id = 30
+# text = The dealer's cars and hers sell quickly.
+# previous = Did the dealer's cars and Alex's sell quickly?
+# comment = dependent part of conjunction
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	4	nsubj	_	SpaceAfter=No
+3	's	's	PART	POS	_	2	case	_	_
+4	cars	car	NOUN	NNS	Number=Plur	7	nsubj	_	_
+5	and	and	CCONJ	CC	_	6	cc	_	_
+6	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	conj	_	_
+7	sell	sell	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	quickly	quickly	ADV	RB	_	7	advmod	_	SpaceAfter=No
+9	.	.	PUNCT	Period	_	7	punct	_	_
+
+# sent_id = 31
+# text = Hers and the dealer's sold quickly.
+# previous = Did the dealer's cars and Alex's sell quickly?
+# comment = head part of conjunction
+1	Hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
+2	and	and	CCONJ	CC	_	4	cc	_	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_
+4	dealer	dealer	NOUN	NN	Number=Sing	1	conj	_	SpaceAfter=No
+5	's	's	PART	POS	_	4	case	_	_
+6	sold	sell	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	quickly	quickly	ADV	RB	_	6	advmod	_	SpaceAfter=No
+8	.	.	PUNCT	Period	_	7	punct	_	_
+
+# sent_id = 32
+# text = The dealer cleaned the car before hers.
+# previous = Did the dealer clean their car before Alex's car?
+# comment = complement after clause
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	cleaned	clean	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
+5	car	car	NOUN	NN	Number=Sing	3	obj	_	_
+6	before	before	ADP	IN	_	7	case	_	_
+7	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obl	_	SpaceAfter=No
+8	.	.	PUNCT	Period	_	3	punct	_	_
+
+# sent_id = 33
+# text = After hers, the dealer cleaned the car.
+# previous = Did the dealer clean their car before Alex's car?
+# comment = complement after clause
+1	After	after	ADP	IN	_	2	case	_	_
+2	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	obl	_	SpaceAfter=No
+3	,	,	PUNCT	,	_	6	punct	_	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
+5	dealer	dealer	NOUN	NN	Number=Sing	6	nsubj	_	_
+6	cleaned	clean	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	_
+8	car	car	NOUN	NN	Number=Sing	6	obj	_	SpaceAfter=No
+9	.	.	PUNCT	Period	_	6	punct	_	_
+
+# sent_id = 34
+# text = Hers was cleaned.
+# previous = What happened to Alex's car?
+# comment = passive subject
+1	Hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nsubj	_	_
+2	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux:pass	_	_
+3	cleaned	clean	VERB	V	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	Period	_	3	punct	_	_
+
+# sent_id = 35
+# text = The car of hers was cleaned.
+# previous = What happened to Alex's car?
+# comment = of genitive in subject of passive sentence (genitive)
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	6	nsubj	_	_
+3	of	of	ADP	IN	_	4	case	_	_
+4	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod	_	_
+5	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	aux:pass	_	_
+6	cleaned	clean	VERB	V	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	Period	_	6	punct	_	_
+
+# sent_id = 36
+# text = The dealer cleaned the car of hers.
+# previous = What happened to Alex's car?
+# comment = of genitive in object
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	cleaned	clean	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
+5	car	car	NOUN	NN	Number=Sing	3	obj	_	_
+6	of	of	ADP	IN	_	7	case	_	_
+7	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	nmod	_	SpaceAfter=No
+8	.	.	PUNCT	Period	_	3	punct	_	_
+
+# sent_id = 37
+# text = The car, hers, was cleaned.
+# previous = What happened to Alex's car?
+# comment = appositional modifier
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	7	nsubj	_	SpaceAfter=No
+3	,	,	PUNCT	,	_	2	punct	_	_
+4	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	appos	_	SpaceAfter=No
+5	,	,	PUNCT	,	_	2	punct	_	_
+6	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux:pass	_	_
+7	cleaned	clean	VERB	V	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	Period	_	7	punct	_	_
+
+# sent_id = 38
+# text = One of hers was cleaned.
+# previous = What happened to Alex's car?
+# comment = of genitive and partitive in subject of passive sentence
+1	One	one	NUM	N	NumType=Card	5	nsubj	_	_
+2	of	of	ADP	IN	_	3	case	_	_
+3	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	1	nmod	_	_
+4	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux:pass	_	_
+5	cleaned	clean	VERB	V	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	Period	_	5	punct	_	_
+
+# sent_id = 39
+# text = The car of hers was cleaned.
+# previous = What happened to Alex's car?
+# comment = of genitive, non-partitive, in subject of passive sentence
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	6	nsubj	_	_
+3	of	of	ADP	IN	_	4	case	_	_
+4	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod	_	_
+5	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	aux:pass	_	_
+6	cleaned	clean	VERB	V	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	Period	_	6	punct	_	_
+
+# sent_id = 40
+# text = Hers, the dealer cleaned.
+# previous = What did the dealer do with Alex's car?
+# comment = extracted/raised object
+1	Hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	obl	_	SpaceAfter=No
+2	,	,	PUNCT	,	_	5	punct	_	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_
+4	dealer	dealer	NOUN	NN	Number=Sing	5	nsubj	_	_
+5	cleaned	clean	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	Period	_	5	punct	_	_
+
+# sent_id = 41
+# text = Dealers like seeing cars, especially hers.
+# previous = What did the dealers like doing with Alex's cars?
+# comment = with orphaned dependent due to verb ellipsis in conjunction
+1	Dealers	dealer	NOUN	_	Number=Plur	2	nsubj	_	_
+2	like	like	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	seeing	see	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Inf	2	xcomp	_	_
+4	cars	car	NOUN	_	Number=Plural	3	obj	_	SpaceAfter=No
+5	,	,	PUNCT	,	_	2	punct	_	_
+6	especially	especially	ADV	RB	_	7	orphan	_	_
+7	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	conj	_	SpaceAfter=No
+8	.	.	PUNCT	Period	_	2	punct	_	_
+
+# sent_id = 42
+# text = Dealers like seeing cars, especially hers.
+# previous = What did the dealers like doing with Alex's cars?
+# comment = with orphaned dependent due to verb ellipsis in conjunction
+1	Dealers	dealer	NOUN	_	Number=Plur	2	nsubj	_	_
+2	like	like	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	seeing	see	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Inf	2	xcomp	_	_
+4	cars	car	NOUN	_	Number=Plural	3	obj	_	SpaceAfter=No
+5	,	,	PUNCT	,	_	2	punct	_	_
+6	especially	especially	ADV	RB	_	7	orphan	_	_
+7	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	conj	_	SpaceAfter=No
+8	.	.	PUNCT	Period	_	2	punct	_	_
+
+# sent_id = 43
+# text = The dealer cleaned the car: it was hers.
+# previous = What did the dealers like doing with Alex's cars?
+# comment = head of a clause with parataxis relationship to preceding clause
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	cleaned	clean	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
+5	car	car	NOUN	NN	Number=Sing	3	obj	_	SpaceAfter=No
+6	:	:	PUNCT	:	_	3	punct	_	_
+7	it	it	PRON	PERS-SG	_	9	nsubj	_	_
+8	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	aux:pass	_	_
+9	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	parataxis	_	SpaceAfter=No
+10	.	.	PUNCT	Period	_	3	punct	_	_
+
+# sent_id = 44
+# text = Hers'll do.
+# previous = Which person's car do we want?
+# comment = with auxiliary suffix
+1	Hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nsubj	_	SpaceAfter=No
+2	'll	will	AUX	MD	VerbForm=Fin	3	aux	_	_
+3	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	Period	_	3	punct	_	_
+
+# sent_id = 45
+# text = The dealer gave fresh paint to hers.
+# previous = What did the dealer give to Alex's car?
+# comment = to version of ditransitive verb (dative)
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	gave	give	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	fresh	fresh	ADJ	A	_	5	amod	_	_
+5	paint	paint	NOUN	NN	Number=Sing	3	obj	_	_
+6	to	to	ADP	E	_	7	case	_	_
+7	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obl	_	SpaceAfter=No
+8	.	.	PUNCT	Period	_	3	punct	_	_
+
+# sent_id = 46
+# text = The dealer walked to hers.
+# previous = How did the dealer get to Alex's place?
+# comment = Non-core argument (locative)
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	walked	walk	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	to	to	ADP	E	_	3	case	_	_
+5	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obl	_	SpaceAfter=No
+6	.	.	PUNCT	Period	_	3	punct	_	_
+
+# sent_id = 47
+# text = The dealer drove using hers.
+# previous = How did the dealer get there?
+# comment = Non-core argument (instrumental)
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	drove	drive	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	using	use	VERB	V	VerbForm=Ger	3	advcl	_	_
+5	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obl	_	SpaceAfter=No
+6	.	.	PUNCT	Period	_	3	punct	_	_
+
+# sent_id = 48
+# text = The dealer went with hers.
+# previous = How did the dealer look at Alex's car?
+# comment = Non-core argument (comitative)
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	went	go	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	with	with	ADP	E	_	3	case	_	_
+5	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obl	_	SpaceAfter=No
+6	.	.	PUNCT	Period	_	3	punct	_	_
+
+# sent_id = 49
+# text = The dealer waited at hers.
+# previous = How did the dealer look at Alex's car?
+# comment = Non-core argument (adessive)
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	waited	wait	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	at	at	ADP	E	_	3	case	_	_
+5	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obl	_	SpaceAfter=No
+6	.	.	PUNCT	Period	_	3	punct	_	_
+
+# sent_id = 50
+# text = The dealer got into hers.
+# previous = Where did the dealer go?
+# comment = Non-core argument (illative)
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	got	get	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	into	into	ADP	E	_	3	case	_	_
+5	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obl	_	SpaceAfter=No
+6	.	.	PUNCT	Period	_	3	punct	_	_
+
+# sent_id = 51
+# text = The dealer came from hers.
+# previous = Where did the dealer come from?
+# comment = Non-core argument (ellative)
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	came	come	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	from	from	ADP	E	_	3	case	_	_
+5	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obl	_	SpaceAfter=No
+6	.	.	PUNCT	Period	_	3	punct	_	_
+
+# sent_id = 52
+# text = The dealer sat on hers.
+# previous = Where did the dealer go?
+# comment = Non-core argument (superessive)
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	sat	sit	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	on	on	ADP	E	_	3	case	_	_
+5	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obl	_	SpaceAfter=No
+6	.	.	PUNCT	Period	_	3	punct	_	_
+
+# sent_id = 53
+# text = The dealer recommended that hers get painted.
+# previous = Where did the dealer say about Alex's car?
+# comment = subjunctive 
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	recommended	recommend	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	that	that	SCONJ	_	_	6	mark	_	_
+5	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
+6	get	get	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+7	painted	paint	ADJ	POS	Degree=Pos	6	xcomp	_	SpaceAfter=No
+8	.	.	PUNCT	Period	_	3	punct	_	_
+
+# sent_id = 54
+# text = Take hers.
+# previous = Which should I take?
+# comment = imperative
+1	Take	take	VERB	V	Mood=Imp|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	1	nsubj	_	SpaceAfter=No
+3	.	.	PUNCT	Period	_	1	punct	_	_
+
+# sent_id = 55
+# text = Hers is easy to clean.
+# previous = What did the dealer like about Alex's car?
+# comment = extraction/raising via "tough extraction" and clausal subject
+1	Hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nsubj	_	_
+2	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Inf	3	cop	_	_
+3	easy	easy	ADJ	JJ	Degree=Pos	0	root	_	_
+4	to	to	PART	TO	_	5	mark	_	_
+5	clean	clean	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	csubj	_	SpaceAfter=No
+6	.	.	PUNCT	Period	_	5	punct	_	_
+
+# sent_id = 56
+# text = Hers parks.
+# previous = What does Alex's car do?
+# comment = subject of unaccusative intransitive
+1	Hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nsubj	_	_
+2	parks	park	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	Period	_	2	punct	_	_
+
+# sent_id = 57
+# text = Hers broke.
+# previous = What was Alex's car like?
+# comment = subject of unergative intransitive
+1	Hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nsubj	_	_
+2	broke	break	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	Period	_	2	punct	_	_
+
