@@ -64,6 +64,15 @@ It was simply for lack of time that the previous sentences did't also get annota
 
 In version 1.0, 57 unique sentences were created with an Independent Genitive pronoun and they were copied with all pronoun alternations to make 285 total sentences with 1695 total words. Experiments to semi-automate the expansion of the dataset are ongoing.
 
+## Files
+
+There is only one file in the initia release, a test set:
+```
+en_pronouns-ud-test.conllu
+```
+
+Work to expand the dataset to be large enough to include development and training sets is ongoing. 
+
 # Acknowledgments
 
 The dataset was created by [Robert Munro](http://www.robertmunro.com) while writing [Human-in-the-Loop Machine Learning](http://bit.ly/huml_book) (Manning Publications)
