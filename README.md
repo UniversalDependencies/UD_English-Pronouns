@@ -95,11 +95,11 @@ Data available since: UD v2.5
 License: CC BY-SA 4.0
 Includes text: yes
 Genre: grammar-examples
-Lemmas: manual
-UPOS: manual
-XPOS: manual
-Features: manual
-Relations: manual
+Lemmas: manual native
+UPOS: manual native
+XPOS: manual native
+Features: manual native
+Relations: manual native
 Contributors: Munro, Robert
 Contributing: elsewhere
 Contact: rmunro@alumni.stanford.edu
