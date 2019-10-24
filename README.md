@@ -4,15 +4,19 @@ UD English-Pronouns is dataset created to make pronoun identification more accur
 
 # Introduction
 
-The Independent Genitive pronoun "hers" is wrongly classified as a noun or adjective by the most widely used parsers (in October of 2019.) This includes (alphabetically) Amazon Comprehend, Google Natural Language API, and the Stanford Parser. 
+The Independent Genitive pronoun "hers" is wrongly classified as a noun or adjective by the most widely used parsers (in October of 2019). This includes (alphabetically) Amazon Comprehend, Google Natural Language API, and the Stanford Parser. 
 
-## Cause of errors: missing examples
+## Cause of errors: missing examples and annotations
 
-The cause of the errors in widely used syntactic parsers is most likely because "hers" is rare in the existing datasets and completely absent from any standard test data. The pronoun "hers" only occurs three times in the entire Universal Dependencies datasets (in of October 2019). Of those three times, it is never marked with "Case=Gen", "Poss=Yes", or "PronType=Prs", which would be the correct list of morphological features (FEATS) for "hers" in any context. 
+The main cause of the errors in widely used syntactic parsers is most likely because "hers" is rare in the existing datasets and completely absent from any standard test data. The pronoun "hers" only occurs three times in the entire Universal Dependencies datasets (in of October 2019). Of those three times, it is never marked with "Case=Gen", "Poss=Yes", or "PronType=Prs", which would be the correct list of morphological features (FEATS) for "hers" in any context. 
 
 In one case of the three occurrences, "hers" was correctly annotated as "P3SG-GEN-INDEP" in the Language-specific part-of-speech tag (XPOS) field. But this field is largely ignored by general purpose syntactic parsers.
 
 The three examples are in the training data, so the complete absense of "hers" in the development and test data might have let this error slip under the radar. 
+
+In general, Masculine pronouns are 4x more frequent than Feminine pronouns in the UD English datasets that have been compiled to date (October 2019). So this also contributes to the why it might have been missed. 
+
+So, the errors are a combination of the inherent imbalance in the datasets, and by extension the sources they are drawn from, and gaps annotation to-date. There are also linguistic reasons for the gap, as outlined below.
 
 ## Inherent gender bias 
 
