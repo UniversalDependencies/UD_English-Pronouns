@@ -62,7 +62,7 @@ The "previous" sentence should also make it clear that the "theirs" and "yours" 
 
 It was simply for lack of time that the previous sentences did't also get annotations in this corpus, or that the entire dataset was turned into a believable sequence: either would be good extensions! 
 
-In version 1.0, 57 unique sentences were created with an Independent Genitive pronoun and they were copied with all pronoun alternations to make 342 total sentences with 2,034 total words. Experiments to semi-automate the expansion of the dataset are ongoing.
+In version 1.0, 57 unique sentences were created with an Independent Genitive pronoun and they were copied with all pronoun alternations to make 285 total sentences with 1695 total words. Experiments to semi-automate the expansion of the dataset are ongoing.
 
 # Acknowledgments
 
