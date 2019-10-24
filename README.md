@@ -4,7 +4,7 @@ UD English-Pronouns is dataset created to make pronoun identification more accur
 
 # Introduction
 
-The Independent Genitive pronoun "hers" is wrongly classified as a noun or adjective by the most widely used parsers (in October of 2019). This includes (alphabetically) Amazon Comprehend, Google Natural Language API, and the Stanford Parser. 
+The Independent Genitive pronoun "hers" is wrongly classified as a noun or adjective by the most widely used parsers (in October of 2019). This includes (alphabetically) Amazon Comprehend, Google Natural Language API, and the Stanford Parser. This error was traced to the data - not the algorithms themselves - and so this dataset was created to fix these errors.
 
 ## Cause of errors: missing examples and annotations
 
