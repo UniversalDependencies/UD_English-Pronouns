@@ -51,7 +51,7 @@ A "previous" field is also added to include a viable previous sentence. Independ
 # text = Hers accelerated.
 # comment = subject to regular intransitive verb
 # previous = What did Alex's car do?
-\.\.\.
+...
 # sent_id = 55
 # text = Hers is easy to clean.
 # comment = extraction/raising via "tough extraction" and clausal subject
