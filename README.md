@@ -75,6 +75,11 @@ There is only one file in the initia release, a test set:
 en_pronouns-ud-test.conllu
 ```
 
+There is also a data statement that describes the dataset in more detail:
+```
+data_statement.md
+```
+
 Work to expand the dataset to be large enough to include development and training sets is ongoing. 
 
 # Acknowledgments
