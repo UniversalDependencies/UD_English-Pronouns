@@ -10,7 +10,7 @@ The Independent Genitive pronoun "hers" is wrongly classified as a noun or adjec
 
 The main cause of the errors in widely used syntactic parsers is most likely because "hers" is rare in the existing datasets and completely absent from any standard test data. The pronoun "hers" only occurs three times in the entire Universal Dependencies datasets (in of October 2019). Of those three times, it is never marked with "Case=Gen", "Poss=Yes", or "PronType=Prs", which would be the correct list of morphological features (FEATS) for "hers" in any context. 
 
-In one case of the three occurrences, "hers" was correctly annotated as "P3SG-GEN-INDEP" in the Language-specific part-of-speech tag (XPOS) field. But this field is largely ignored by general purpose syntactic parsers.
+In one case of the three occurrences, "hers" was correctly annotated as "P3SG-GEN-INDEP" in the Language-specific part-of-speech tag (XPOS) field. But this field is largely ignored by general purpose syntactic parsers. 
 
 The three examples are in the training data, so the complete absense of "hers" in the development and test data might have let this error slip under the radar. 
 
@@ -42,11 +42,11 @@ The Independent Genitives can occur in more syntactic contexts than any other pr
 
 ## How the dataset was created and is structured
 
-The dataset was created manually, targeting grammatical diversity. For example, there are sentences with "hers" appearing as the subject, object, indirect object, and oblique arguments; sentences with "hers" in a conjunction, sentences with "hers" in a complement clause, etc. 
+The dataset was created manually, targeting grammatical diversity. For example, there are sentences with "hers" appearing as the subject, object, indirect object, and oblique arguments; sentences with "hers" in a conjunction; sentences with "hers" in a complement clause; etc. 
 
-About 90% of the sentences are completely unique, and the remaining 10% alternate an important linguistic feature in English, like regular and irregular verbs, or linguistic features that would have different syntax and/or morphology in other languages, like the locative/ablative case distinction.
+The Majority sentences are completely unique in terms of their dependency tree and constituents. For the sentences that share the same dependency tree and constituent structure, they alternate an important linguistic feature in English, like regular and irregular verbs, or linguistic features that would have different syntax and/or morphology in other languages, like the locative/ablative case distinction.
 
-The "comment" field describes exactly what grammatical structure(s) are captured in each sentence.  
+The "comment" field describes exactly what grammatical structure(s) are captured in each sentence. The Independent Genitive is the most flexible pronoun, able to appear in a sentence almost anywhere any noun phrase can appear. 
 
 A "previous" field is also added to include a viable previous sentence. Independent pronouns refer to non-syntactically local entities and those entities are typically made salient through context. It is too unnatural for the sentences to have an explicit entity that it refers to within the same sentence. So, the previous sentence should help. Here are two examples of these comments:
 
