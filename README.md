@@ -77,6 +77,9 @@ en_pronouns-ud-test.conllu
 
 Work to expand the dataset to be large enough to include development and training sets is ongoing. 
 
+If you need to train on this dataset, then you can split train/test on even/odd sentences. For example, if your widely used application misses the "hers" and singular "theirs" pronouns, then it is recommended that you split the dataset 50/50 and train on the sentences with an even sentence id.
+
+
 # Acknowledgments
 
 The dataset was created by [Robert Munro](http://www.robertmunro.com) while writing [Human-in-the-Loop Machine Learning](http://bit.ly/huml_book) (Manning Publications)
