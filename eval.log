@@ -3,9 +3,9 @@ commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Date:   Sat Apr 21 19:02:58 2018 +0200
 Evaluating the following revision of UD_English-Pronouns:
-commit 50cade31571c570327a2a097e5b3ac81a09ab35d
+commit e12e8bac8351c28c461c553340ab3bf134a507bb
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue Nov 12 15:41:17 2019 +0100
+Date:   Tue Nov 12 16:57:53 2019 +0100
 Size: counted 1695 of 1695 words (nodes).
 Size: min(0, log((N/1000)**2)) = 1.05536548166483.
 Size: maximum value 13.815511 is for 1000000 words or more.
