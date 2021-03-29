@@ -31,7 +31,7 @@
 # previous = Which person owns this?
 # comment = copular subject
 1	It	it	PRON	PERS-SG	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
-2	is	be	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	mine	me	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	Period	_	3	punct	_	_
 
@@ -40,7 +40,7 @@
 # previous = Which person owns this?
 # comment = copular subject
 1	It	it	PRON	PERS-SG	Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
-2	is	be	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	yours	you	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	Period	_	3	punct	_	_
 
@@ -76,7 +76,7 @@
 # previous = Which person owns this?
 # comment = abbreviated copular subject
 1	It	it	PRON	PERS-SG	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	SpaceAfter=No
-2	's	be	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	mine	me	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	Period	_	3	punct	_	_
 
@@ -85,7 +85,7 @@
 # previous = Which person owns this?
 # comment = abbreviated copular subject
 1	It	it	PRON	PERS-SG	Number=Sing|Person=2|PronType=Prs	3	nsubj	_	SpaceAfter=No
-2	's	be	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	yours	you	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	Period	_	3	punct	_	_
 
@@ -124,7 +124,7 @@
 # previous = Which person owns this?
 # comment = predeterminer modifier
 1	It	it	PRON	PERS-SG	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	SpaceAfter=No
-2	's	be	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	_
+2	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	all	all	PRON	TOT-SG	Case=Nom	4	det:predet	_	_
 4	mine	me	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 5	!	!	PUNCT	ExclMark	_	4	punct	_	_
@@ -134,7 +134,7 @@
 # previous = Which person owns this?
 # comment = predeterminer modifier
 1	It	it	PRON	PERS-SG	Number=Sing|Person=2|PronType=Prs	4	nsubj	_	SpaceAfter=No
-2	's	be	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	cop	_	_
+2	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	all	all	PRON	TOT-SG	Case=Nom	4	det:predet	_	_
 4	yours	you	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 5	!	!	PUNCT	ExclMark	_	4	punct	_	_
@@ -145,7 +145,7 @@
 # comment = adverbial modifier
 1	It	it	PRON	PERS-SG	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	SpaceAfter=No
 2	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
-3	mostly	most	ADV	RB	_	4	advmod	_	_
+3	mostly	mostly	ADV	RB	_	4	advmod	_	_
 4	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	Period	_	4	punct	_	_
 
@@ -155,7 +155,7 @@
 # comment = adverbial modifier
 1	It	it	PRON	PERS-SG	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	SpaceAfter=No
 2	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
-3	mostly	most	ADV	RB	_	4	advmod	_	_
+3	mostly	mostly	ADV	RB	_	4	advmod	_	_
 4	his	he	PRON	SG-GEN-INDEP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	Period	_	4	punct	_	_
 
@@ -165,7 +165,7 @@
 # comment = adverbial modifier
 1	It	it	PRON	PERS-SG	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	SpaceAfter=No
 2	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
-3	mostly	most	ADV	RB	_	4	advmod	_	_
+3	mostly	mostly	ADV	RB	_	4	advmod	_	_
 4	theirs	they	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	Period	_	4	punct	_	_
 
@@ -174,8 +174,8 @@
 # previous = Which person owns this?
 # comment = adverbial modifier
 1	It	it	PRON	PERS-SG	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	SpaceAfter=No
-2	's	be	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	_
-3	mostly	most	ADV	RB	_	4	advmod	_	_
+2	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	mostly	mostly	ADV	RB	_	4	advmod	_	_
 4	mine	me	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	Period	_	4	punct	_	_
 
@@ -184,8 +184,8 @@
 # previous = Which person owns this?
 # comment = adverbial modifier
 1	It	it	PRON	PERS-SG	Number=Sing|Person=2|PronType=Prs	4	nsubj	_	SpaceAfter=No
-2	's	be	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	cop	_	_
-3	mostly	most	ADV	RB	_	4	advmod	_	_
+2	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	mostly	mostly	ADV	RB	_	4	advmod	_	_
 4	yours	you	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	Period	_	4	punct	_	_
 
@@ -220,7 +220,7 @@
 # text = It's not mine!
 # comment = negation 
 1	It	it	PRON	PERS-SG	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	SpaceAfter=No
-2	's	be	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	_
+2	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	not	not	PART	PART	Polarity=Neg	4	advmod	_	_
 4	mine	me	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 5	!	!	PUNCT	ExclMark	_	4	punct	_	_
@@ -229,7 +229,7 @@
 # text = It's not yours!
 # comment = negation 
 1	It	it	PRON	PERS-SG	Number=Sing|Person=2|PronType=Prs	4	nsubj	_	SpaceAfter=No
-2	's	be	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	cop	_	_
+2	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	not	not	PART	PART	Polarity=Neg	4	advmod	_	_
 4	yours	you	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 5	!	!	PUNCT	ExclMark	_	4	punct	_	_
@@ -269,7 +269,7 @@
 # previous = Does this belong to Alex?
 # comment = abbreviated negation 
 1	It	it	PRON	PERS-SG	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
-2	is	be	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	SpaceAfter=No
+2	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	SpaceAfter=No
 3	n't	not	PART	PART	Polarity=Neg	4	advmod	_	_
 4	mine	me	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	Period	_	4	punct	_	_
@@ -279,7 +279,7 @@
 # previous = Does this belong to Alex?
 # comment = abbreviated negation 
 1	It	it	PRON	PERS-SG	Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
-2	is	be	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	cop	_	SpaceAfter=No
+2	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	SpaceAfter=No
 3	n't	not	PART	PART	Polarity=Neg	4	advmod	_	_
 4	yours	you	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	Period	_	4	punct	_	_
@@ -365,7 +365,7 @@
 # comment = copular object 
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	4	nsubj	_	_
-3	is	be	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 4	mine	me	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	Period	_	4	punct	_	_
 
@@ -375,7 +375,7 @@
 # comment = copular object 
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	4	nsubj	_	_
-3	is	be	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 4	yours	you	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	Period	_	4	punct	_	_
 
@@ -415,7 +415,7 @@
 # comment = abbreviated copular object 
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	4	nsubj	_	SpaceAfter=No
-3	's	be	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 4	mine	me	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	Period	_	4	punct	_	_
 
@@ -425,7 +425,7 @@
 # comment = abbreviated copular object 
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	4	nsubj	_	SpaceAfter=No
-3	's	be	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 4	yours	you	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	Period	_	4	punct	_	_
 
@@ -468,7 +468,7 @@
 # comment = abbreviated copular object with predeterminer modifier
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	SpaceAfter=No
-3	's	be	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 4	all	all	PRON	TOT-SG	Case=Nom	5	nmod	_	_
 5	mine	me	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 6	!	!	PUNCT	ExclMark	_	5	punct	_	_
@@ -479,7 +479,7 @@
 # comment = abbreviated copular object with predeterminer modifier
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	SpaceAfter=No
-3	's	be	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 4	all	all	PRON	TOT-SG	Case=Nom	5	nmod	_	_
 5	yours	you	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 6	!	!	PUNCT	ExclMark	_	5	punct	_	_
@@ -491,7 +491,7 @@
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	SpaceAfter=No
 3	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
-4	mostly	most	ADV	RB	_	5	advmod	_	_
+4	mostly	mostly	ADV	RB	_	5	advmod	_	_
 5	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	Period	_	5	punct	_	_
 
@@ -502,7 +502,7 @@
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	SpaceAfter=No
 3	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
-4	mostly	most	ADV	RB	_	5	advmod	_	_
+4	mostly	mostly	ADV	RB	_	5	advmod	_	_
 5	his	he	PRON	SG-GEN-INDEP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	Period	_	5	punct	_	_
 
@@ -513,7 +513,7 @@
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	SpaceAfter=No
 3	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
-4	mostly	most	ADV	RB	_	5	advmod	_	_
+4	mostly	mostly	ADV	RB	_	5	advmod	_	_
 5	theirs	they	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	Period	_	5	punct	_	_
 
@@ -523,8 +523,8 @@
 # comment = abbreviated copular object with adverbial modifier
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	SpaceAfter=No
-3	's	be	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	cop	_	_
-4	mostly	most	ADV	RB	_	5	advmod	_	_
+3	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	mostly	mostly	ADV	RB	_	5	advmod	_	_
 5	mine	me	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	Period	_	5	punct	_	_
 
@@ -534,8 +534,8 @@
 # comment = abbreviated copular object with adverbial modifier
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	SpaceAfter=No
-3	's	be	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	cop	_	_
-4	mostly	most	ADV	RB	_	5	advmod	_	_
+3	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	mostly	mostly	ADV	RB	_	5	advmod	_	_
 5	yours	you	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	Period	_	5	punct	_	_
 
@@ -578,7 +578,7 @@
 # comment = abbreviated copular object with negation 
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	SpaceAfter=No
-3	's	be	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 4	not	not	PART	PART	Polarity=Neg	5	advmod	_	_
 5	mine	me	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 6	!	!	PUNCT	ExclMark	_	5	punct	_	_
@@ -589,7 +589,7 @@
 # comment = abbreviated copular object with negation 
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	SpaceAfter=No
-3	's	be	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 4	not	not	PART	PART	Polarity=Neg	5	advmod	_	_
 5	yours	you	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 6	!	!	PUNCT	ExclMark	_	5	punct	_	_
@@ -633,7 +633,7 @@
 # comment = copular object with abbreviated negation
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
-3	is	be	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	cop	_	SpaceAfter=No
+3	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	SpaceAfter=No
 4	n't	not	PART	PART	Polarity=Neg	5	advmod	_	_
 5	mine	me	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	Period	_	5	punct	_	_
@@ -644,7 +644,7 @@
 # comment = copular object with abbreviated negation
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
-3	is	be	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	cop	_	SpaceAfter=No
+3	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	SpaceAfter=No
 4	n't	not	PART	PART	Polarity=Neg	5	advmod	_	_
 5	yours	you	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	Period	_	5	punct	_	_
@@ -743,7 +743,7 @@
 2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
 3	of	of	ADP	E	_	4	case	_	_
 4	mine	me	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod	_	_
-5	sells	sell	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	sells	sell	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	quickly	quickly	ADV	RB	_	5	advmod	_	SpaceAfter=No
 7	.	.	PUNCT	Period	_	5	punct	_	_
 
@@ -755,7 +755,7 @@
 2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
 3	of	of	ADP	E	_	4	case	_	_
 4	yours	you	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	2	nmod	_	_
-5	sells	sell	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	sells	sell	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	quickly	quickly	ADV	RB	_	5	advmod	_	SpaceAfter=No
 7	.	.	PUNCT	Period	_	5	punct	_	_
 
@@ -791,7 +791,7 @@
 # previous = Where is your car?
 # comment = expositional subject
 1	There	there	PRON	EX	_	2	expl	_	_
-2	is	be	VERB	PRES	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	is	be	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	mine	me	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nsubj	_	SpaceAfter=No
 4	.	.	PUNCT	Period	_	2	punct	_	_
 
@@ -800,7 +800,7 @@
 # previous = Where is my car?
 # comment = expositional subject
 1	There	there	PRON	EX	_	2	expl	_	_
-2	is	be	VERB	PRES	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	is	be	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	yours	you	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	2	nsubj	_	SpaceAfter=No
 4	.	.	PUNCT	Period	_	2	punct	_	_
 
@@ -864,8 +864,8 @@
 # previous = What do you think of Alex's car?
 # comment = copular subject with adjective
 1	Hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nsubj	_	_
-2	is	be	AUX	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	3	cop	_	_
-3	nice	quick	ADJ	A	_	0	root	_	SpaceAfter=No
+2	is	be	AUX	V	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	nice	nice	ADJ	A	_	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	Period	_	3	punct	_	_
 
 # sent_id = 87
@@ -873,8 +873,8 @@
 # previous = What do you think of Alex's car?
 # comment = copular subject with adjective
 1	His	he	PRON	SG-GEN-INDEP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nsubj	_	_
-2	is	be	AUX	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	3	cop	_	_
-3	nice	quick	ADJ	A	_	0	root	_	SpaceAfter=No
+2	is	be	AUX	V	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	nice	nice	ADJ	A	_	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	Period	_	3	punct	_	_
 
 # sent_id = 88
@@ -882,8 +882,8 @@
 # previous = What do you think of Alex's car?
 # comment = copular subject with adjective
 1	Theirs	they	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nsubj	_	_
-2	is	be	AUX	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	3	cop	_	_
-3	nice	quick	ADJ	A	_	0	root	_	SpaceAfter=No
+2	is	be	AUX	V	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	nice	nice	ADJ	A	_	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	Period	_	3	punct	_	_
 
 # sent_id = 89
@@ -891,8 +891,8 @@
 # previous = What do you think of your car?
 # comment = copular subject with adjective
 1	Mine	me	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nsubj	_	_
-2	is	be	AUX	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	3	cop	_	_
-3	nice	quick	ADJ	A	_	0	root	_	SpaceAfter=No
+2	is	be	AUX	V	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	nice	nice	ADJ	A	_	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	Period	_	3	punct	_	_
 
 # sent_id = 90
@@ -900,8 +900,8 @@
 # previous = What do you think of my car?
 # comment = copular subject with adjective
 1	Yours	you	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	3	nsubj	_	_
-2	is	be	AUX	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	3	cop	_	_
-3	nice	quick	ADJ	A	_	0	root	_	SpaceAfter=No
+2	is	be	AUX	V	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	nice	nice	ADJ	A	_	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	Period	_	3	punct	_	_
 
 # sent_id = 91
@@ -910,7 +910,7 @@
 # comment = subject to irregular intransitive verb
 1	Hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nsubj	_	_
 2	drove	drive	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-3	responsively	responsive	ADV	RB	_	2	advmod	_	SpaceAfter=No
+3	responsively	responsively	ADV	RB	_	2	advmod	_	SpaceAfter=No
 4	.	.	PUNCT	Period	_	2	punct	_	_
 
 # sent_id = 92
@@ -919,7 +919,7 @@
 # comment = subject to irregular intransitive verb
 1	His	he	PRON	SG-GEN-INDEP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nsubj	_	_
 2	drove	drive	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-3	responsively	responsive	ADV	RB	_	2	advmod	_	SpaceAfter=No
+3	responsively	responsively	ADV	RB	_	2	advmod	_	SpaceAfter=No
 4	.	.	PUNCT	Period	_	2	punct	_	_
 
 # sent_id = 93
@@ -928,7 +928,7 @@
 # comment = subject to irregular intransitive verb
 1	Theirs	they	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nsubj	_	_
 2	drove	drive	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-3	responsively	responsive	ADV	RB	_	2	advmod	_	SpaceAfter=No
+3	responsively	responsively	ADV	RB	_	2	advmod	_	SpaceAfter=No
 4	.	.	PUNCT	Period	_	2	punct	_	_
 
 # sent_id = 94
@@ -937,7 +937,7 @@
 # comment = subject to irregular intransitive verb
 1	Mine	me	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nsubj	_	_
 2	drove	drive	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
-3	responsively	responsive	ADV	RB	_	2	advmod	_	SpaceAfter=No
+3	responsively	responsively	ADV	RB	_	2	advmod	_	SpaceAfter=No
 4	.	.	PUNCT	Period	_	2	punct	_	_
 
 # sent_id = 95
@@ -946,7 +946,7 @@
 # comment = subject to irregular intransitive verb
 1	Yours	you	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	2	nsubj	_	_
 2	drove	drive	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	_
-3	responsively	responsive	ADV	RB	_	2	advmod	_	SpaceAfter=No
+3	responsively	responsively	ADV	RB	_	2	advmod	_	SpaceAfter=No
 4	.	.	PUNCT	Period	_	2	punct	_	_
 
 # sent_id = 96
@@ -1149,7 +1149,7 @@
 4	that	that	SCONJ	_	_	6	mark	_	_
 5	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
 6	cleaned	clean	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
-7	easily	easy	ADV	RB	_	6	advmod	_	SpaceAfter=No
+7	easily	easily	ADV	RB	_	6	advmod	_	SpaceAfter=No
 8	.	.	PUNCT	Period	_	3	punct	_	_
 
 # sent_id = 117
@@ -1162,7 +1162,7 @@
 4	that	that	SCONJ	_	_	6	mark	_	_
 5	his	he	PRON	SG-GEN-INDEP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
 6	cleaned	clean	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
-7	easily	easy	ADV	RB	_	6	advmod	_	SpaceAfter=No
+7	easily	easily	ADV	RB	_	6	advmod	_	SpaceAfter=No
 8	.	.	PUNCT	Period	_	3	punct	_	_
 
 # sent_id = 118
@@ -1175,7 +1175,7 @@
 4	that	that	SCONJ	_	_	6	mark	_	_
 5	theirs	they	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
 6	cleaned	clean	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
-7	easily	easy	ADV	RB	_	6	advmod	_	SpaceAfter=No
+7	easily	easily	ADV	RB	_	6	advmod	_	SpaceAfter=No
 8	.	.	PUNCT	Period	_	3	punct	_	_
 
 # sent_id = 119
@@ -1188,7 +1188,7 @@
 4	that	that	SCONJ	_	_	6	mark	_	_
 5	mine	me	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nsubj	_	_
 6	cleaned	clean	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	3	ccomp	_	_
-7	easily	easy	ADV	RB	_	6	advmod	_	SpaceAfter=No
+7	easily	easily	ADV	RB	_	6	advmod	_	SpaceAfter=No
 8	.	.	PUNCT	Period	_	3	punct	_	_
 
 # sent_id = 120
@@ -1201,7 +1201,7 @@
 4	that	that	SCONJ	_	_	6	mark	_	_
 5	yours	you	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	6	nsubj	_	_
 6	cleaned	clean	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	3	ccomp	_	_
-7	easily	easy	ADV	RB	_	6	advmod	_	SpaceAfter=No
+7	easily	easily	ADV	RB	_	6	advmod	_	SpaceAfter=No
 8	.	.	PUNCT	Period	_	3	punct	_	_
 
 # sent_id = 121
@@ -1213,7 +1213,7 @@
 3	liked	like	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	that	that	SCONJ	_	_	6	mark	_	_
 5	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
-6	sold	sell	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+6	sold	sell	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
 7	quickly	quickly	ADV	RB	_	6	advmod	_	SpaceAfter=No
 8	.	.	PUNCT	Period	_	3	punct	_	_
 
@@ -1226,7 +1226,7 @@
 3	liked	like	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	that	that	SCONJ	_	_	6	mark	_	_
 5	his	he	PRON	SG-GEN-INDEP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
-6	sold	sell	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+6	sold	sell	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
 7	quickly	quickly	ADV	RB	_	6	advmod	_	SpaceAfter=No
 8	.	.	PUNCT	Period	_	3	punct	_	_
 
@@ -1239,7 +1239,7 @@
 3	liked	like	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	that	that	SCONJ	_	_	6	mark	_	_
 5	theirs	they	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
-6	sold	sell	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+6	sold	sell	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
 7	quickly	quickly	ADV	RB	_	6	advmod	_	SpaceAfter=No
 8	.	.	PUNCT	Period	_	3	punct	_	_
 
@@ -1252,7 +1252,7 @@
 3	liked	like	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	that	that	SCONJ	_	_	6	mark	_	_
 5	mine	me	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nsubj	_	_
-6	sold	sell	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+6	sold	sell	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	3	ccomp	_	_
 7	quickly	quickly	ADV	RB	_	6	advmod	_	SpaceAfter=No
 8	.	.	PUNCT	Period	_	3	punct	_	_
 
@@ -1265,7 +1265,7 @@
 3	liked	like	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	that	that	SCONJ	_	_	6	mark	_	_
 5	yours	you	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	6	nsubj	_	_
-6	sold	sell	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+6	sold	sell	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	3	ccomp	_	_
 7	quickly	quickly	ADV	RB	_	6	advmod	_	SpaceAfter=No
 8	.	.	PUNCT	Period	_	3	punct	_	_
 
@@ -1279,7 +1279,7 @@
 4	that	that	SCONJ	_	_	6	mark	_	_
 5	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
 6	cleaned	clean	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
-7	easily	easy	ADV	RB	_	6	advmod	_	SpaceAfter=No
+7	easily	easily	ADV	RB	_	6	advmod	_	SpaceAfter=No
 8	.	.	PUNCT	Period	_	3	punct	_	_
 
 # sent_id = 127
@@ -1292,7 +1292,7 @@
 4	that	that	SCONJ	_	_	6	mark	_	_
 5	his	he	PRON	SG-GEN-INDEP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
 6	cleaned	clean	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
-7	easily	easy	ADV	RB	_	6	advmod	_	SpaceAfter=No
+7	easily	easily	ADV	RB	_	6	advmod	_	SpaceAfter=No
 8	.	.	PUNCT	Period	_	3	punct	_	_
 
 # sent_id = 128
@@ -1305,7 +1305,7 @@
 4	that	that	SCONJ	_	_	6	mark	_	_
 5	theirs	they	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
 6	cleaned	clean	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
-7	easily	easy	ADV	RB	_	6	advmod	_	SpaceAfter=No
+7	easily	easily	ADV	RB	_	6	advmod	_	SpaceAfter=No
 8	.	.	PUNCT	Period	_	3	punct	_	_
 
 # sent_id = 129
@@ -1318,7 +1318,7 @@
 4	that	that	SCONJ	_	_	6	mark	_	_
 5	mine	me	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nsubj	_	_
 6	cleaned	clean	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	3	ccomp	_	_
-7	easily	easy	ADV	RB	_	6	advmod	_	SpaceAfter=No
+7	easily	easily	ADV	RB	_	6	advmod	_	SpaceAfter=No
 8	.	.	PUNCT	Period	_	3	punct	_	_
 
 # sent_id = 130
@@ -1331,7 +1331,7 @@
 4	that	that	SCONJ	_	_	6	mark	_	_
 5	yours	you	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	6	nsubj	_	_
 6	cleaned	clean	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	3	ccomp	_	_
-7	easily	easy	ADV	RB	_	6	advmod	_	SpaceAfter=No
+7	easily	easily	ADV	RB	_	6	advmod	_	SpaceAfter=No
 8	.	.	PUNCT	Period	_	3	punct	_	_
 
 # sent_id = 131
@@ -1343,7 +1343,7 @@
 3	knew	know	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	that	that	SCONJ	_	_	6	mark	_	_
 5	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
-6	sold	sell	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+6	sold	sell	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
 7	quickly	quickly	ADV	RB	_	6	advmod	_	SpaceAfter=No
 8	.	.	PUNCT	Period	_	3	punct	_	_
 
@@ -1356,7 +1356,7 @@
 3	knew	know	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	that	that	SCONJ	_	_	6	mark	_	_
 5	his	he	PRON	SG-GEN-INDEP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
-6	sold	sell	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+6	sold	sell	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
 7	quickly	quickly	ADV	RB	_	6	advmod	_	SpaceAfter=No
 8	.	.	PUNCT	Period	_	3	punct	_	_
 
@@ -1369,7 +1369,7 @@
 3	knew	know	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	that	that	SCONJ	_	_	6	mark	_	_
 5	theirs	they	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
-6	sold	sell	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+6	sold	sell	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
 7	quickly	quickly	ADV	RB	_	6	advmod	_	SpaceAfter=No
 8	.	.	PUNCT	Period	_	3	punct	_	_
 
@@ -1382,7 +1382,7 @@
 3	knew	know	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	that	that	SCONJ	_	_	6	mark	_	_
 5	mine	me	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nsubj	_	_
-6	sold	sell	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+6	sold	sell	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
 7	quickly	quickly	ADV	RB	_	6	advmod	_	SpaceAfter=No
 8	.	.	PUNCT	Period	_	3	punct	_	_
 
@@ -1395,7 +1395,7 @@
 3	knew	know	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	that	that	SCONJ	_	_	6	mark	_	_
 5	yours	you	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	6	nsubj	_	_
-6	sold	sell	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+6	sold	sell	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
 7	quickly	quickly	ADV	RB	_	6	advmod	_	SpaceAfter=No
 8	.	.	PUNCT	Period	_	3	punct	_	_
 
@@ -1404,8 +1404,8 @@
 # previous = Did the dealers like seeing Alex's car?
 # comment = direct object of irregular infinitive verb (see) in complement of regular verb (like)
 1	Dealers	dealer	NOUN	_	Number=Plur	2	nsubj	_	_
-2	like	like	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	seeing	see	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Inf	2	xcomp	_	_
+2	like	like	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	seeing	see	VERB	V	Mood=Part|Tense=Pres	2	xcomp	_	_
 4	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obj	_	SpaceAfter=No
 5	.	.	PUNCT	Period	_	2	punct	_	_
 
@@ -1414,8 +1414,8 @@
 # previous = Did the dealers like seeing Alex's car?
 # comment = direct object of irregular infinitive verb (see) in complement of regular verb (like)
 1	Dealers	dealer	NOUN	_	Number=Plur	2	nsubj	_	_
-2	like	like	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	seeing	see	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Inf	2	xcomp	_	_
+2	like	like	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	seeing	see	VERB	V	Mood=Part|Tense=Pres	2	xcomp	_	_
 4	his	he	PRON	SG-GEN-INDEP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obj	_	SpaceAfter=No
 5	.	.	PUNCT	Period	_	2	punct	_	_
 
@@ -1424,8 +1424,8 @@
 # previous = Did the dealers like seeing Alex's car?
 # comment = direct object of irregular infinitive verb (see) in complement of regular verb (like)
 1	Dealers	dealer	NOUN	_	Number=Plur	2	nsubj	_	_
-2	like	like	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	seeing	see	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Inf	2	xcomp	_	_
+2	like	like	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	seeing	see	VERB	V	Mood=Part|Tense=Pres	2	xcomp	_	_
 4	theirs	they	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obj	_	SpaceAfter=No
 5	.	.	PUNCT	Period	_	2	punct	_	_
 
@@ -1434,8 +1434,8 @@
 # previous = Did the dealers like seeing your car?
 # comment = direct object of irregular infinitive verb (see) in complement of regular verb (like)
 1	Dealers	dealer	NOUN	_	Number=Plur	2	nsubj	_	_
-2	like	like	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	seeing	see	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Inf	2	xcomp	_	_
+2	like	like	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	seeing	see	VERB	V	Mood=Part|Tense=Pres	2	xcomp	_	_
 4	mine	me	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	obj	_	SpaceAfter=No
 5	.	.	PUNCT	Period	_	2	punct	_	_
 
@@ -1444,8 +1444,8 @@
 # previous = Did the dealers like seeing my car?
 # comment = direct object of irregular infinitive verb (see) in complement of regular verb (like)
 1	Dealers	dealer	NOUN	_	Number=Plur	2	nsubj	_	_
-2	like	like	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	seeing	see	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Inf	2	xcomp	_	_
+2	like	like	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	seeing	see	VERB	V	Mood=Part|Tense=Pres	2	xcomp	_	_
 4	yours	you	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	3	obj	_	SpaceAfter=No
 5	.	.	PUNCT	Period	_	2	punct	_	_
 
@@ -1454,8 +1454,8 @@
 # previous = Did the dealers like cleaning Alex's car?
 # comment = direct object of regular infinitive verb (clean) in complement of regular verb (like)
 1	Dealers	dealer	NOUN	_	Number=Plur	2	nsubj	_	_
-2	like	like	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	cleaning	clean	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Inf	2	xcomp	_	_
+2	like	like	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	cleaning	clean	VERB	V	Mood=Part|Tense=Pres	2	xcomp	_	_
 4	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obj	_	SpaceAfter=No
 5	.	.	PUNCT	Period	_	2	punct	_	_
 
@@ -1464,8 +1464,8 @@
 # previous = Did the dealers like cleaning Alex's car?
 # comment = direct object of regular infinitive verb (clean) in complement of regular verb (like)
 1	Dealers	dealer	NOUN	_	Number=Plur	2	nsubj	_	_
-2	like	like	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	cleaning	clean	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Inf	2	xcomp	_	_
+2	like	like	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	cleaning	clean	VERB	V	Mood=Part|Tense=Pres	2	xcomp	_	_
 4	his	he	PRON	SG-GEN-INDEP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obj	_	SpaceAfter=No
 5	.	.	PUNCT	Period	_	2	punct	_	_
 
@@ -1474,8 +1474,8 @@
 # previous = Did the dealers like cleaning Alex's car?
 # comment = direct object of regular infinitive verb (clean) in complement of regular verb (like)
 1	Dealers	dealer	NOUN	_	Number=Plur	2	nsubj	_	_
-2	like	like	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	cleaning	clean	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Inf	2	xcomp	_	_
+2	like	like	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	cleaning	clean	VERB	V	Mood=Part|Tense=Pres	2	xcomp	_	_
 4	theirs	they	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obj	_	SpaceAfter=No
 5	.	.	PUNCT	Period	_	2	punct	_	_
 
@@ -1484,8 +1484,8 @@
 # previous = Did the dealers like cleaning your car?
 # comment = direct object of regular infinitive verb (clean) in complement of regular verb (like)
 1	Dealers	dealer	NOUN	_	Number=Plur	2	nsubj	_	_
-2	like	like	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	cleaning	clean	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Inf	2	xcomp	_	_
+2	like	like	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	cleaning	clean	VERB	V	Mood=Part|Tense=Pres	2	xcomp	_	_
 4	mine	me	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	obj	_	SpaceAfter=No
 5	.	.	PUNCT	Period	_	2	punct	_	_
 
@@ -1494,8 +1494,8 @@
 # previous = Did the dealers like cleaning my car?
 # comment = direct object of regular infinitive verb (clean) in complement of regular verb (like)
 1	Dealers	dealer	NOUN	_	Number=Plur	2	nsubj	_	_
-2	like	like	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	cleaning	clean	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Inf	2	xcomp	_	_
+2	like	like	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	cleaning	clean	VERB	V	Mood=Part|Tense=Pres	2	xcomp	_	_
 4	yours	you	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	3	obj	_	SpaceAfter=No
 5	.	.	PUNCT	Period	_	2	punct	_	_
 
@@ -1509,7 +1509,7 @@
 4	cars	car	NOUN	NNS	Number=Plur	7	nsubj	_	_
 5	and	and	CCONJ	CC	_	6	cc	_	_
 6	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	conj	_	_
-7	sell	sell	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	sell	sell	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	quickly	quickly	ADV	RB	_	7	advmod	_	SpaceAfter=No
 9	.	.	PUNCT	Period	_	7	punct	_	_
 
@@ -1523,7 +1523,7 @@
 4	cars	car	NOUN	NNS	Number=Plur	7	nsubj	_	_
 5	and	and	CCONJ	CC	_	6	cc	_	_
 6	his	he	PRON	SG-GEN-INDEP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	conj	_	_
-7	sell	sell	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	sell	sell	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	quickly	quickly	ADV	RB	_	7	advmod	_	SpaceAfter=No
 9	.	.	PUNCT	Period	_	7	punct	_	_
 
@@ -1537,7 +1537,7 @@
 4	cars	car	NOUN	NNS	Number=Plur	7	nsubj	_	_
 5	and	and	CCONJ	CC	_	6	cc	_	_
 6	theirs	they	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	conj	_	_
-7	sell	sell	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	sell	sell	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	quickly	quickly	ADV	RB	_	7	advmod	_	SpaceAfter=No
 9	.	.	PUNCT	Period	_	7	punct	_	_
 
@@ -1551,7 +1551,7 @@
 4	cars	car	NOUN	NNS	Number=Plur	7	nsubj	_	_
 5	and	and	CCONJ	CC	_	6	cc	_	_
 6	mine	me	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	conj	_	_
-7	sell	sell	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	sell	sell	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	quickly	quickly	ADV	RB	_	7	advmod	_	SpaceAfter=No
 9	.	.	PUNCT	Period	_	7	punct	_	_
 
@@ -1565,7 +1565,7 @@
 4	cars	car	NOUN	NNS	Number=Plur	7	nsubj	_	_
 5	and	and	CCONJ	CC	_	6	cc	_	_
 6	yours	you	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	4	conj	_	_
-7	sell	sell	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	sell	sell	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	quickly	quickly	ADV	RB	_	7	advmod	_	SpaceAfter=No
 9	.	.	PUNCT	Period	_	7	punct	_	_
 
@@ -1578,7 +1578,7 @@
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_
 4	dealer	dealer	NOUN	NN	Number=Sing	1	conj	_	SpaceAfter=No
 5	's	's	PART	POS	_	4	case	_	_
-6	sold	sell	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	sold	sell	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 7	quickly	quickly	ADV	RB	_	6	advmod	_	SpaceAfter=No
 8	.	.	PUNCT	Period	_	7	punct	_	_
 
@@ -1591,7 +1591,7 @@
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_
 4	dealer	dealer	NOUN	NN	Number=Sing	1	conj	_	SpaceAfter=No
 5	's	's	PART	POS	_	4	case	_	_
-6	sold	sell	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	sold	sell	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 7	quickly	quickly	ADV	RB	_	6	advmod	_	SpaceAfter=No
 8	.	.	PUNCT	Period	_	7	punct	_	_
 
@@ -1604,7 +1604,7 @@
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_
 4	dealer	dealer	NOUN	NN	Number=Sing	1	conj	_	SpaceAfter=No
 5	's	's	PART	POS	_	4	case	_	_
-6	sold	sell	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	sold	sell	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 7	quickly	quickly	ADV	RB	_	6	advmod	_	SpaceAfter=No
 8	.	.	PUNCT	Period	_	7	punct	_	_
 
@@ -1617,7 +1617,7 @@
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_
 4	dealer	dealer	NOUN	NN	Number=Sing	1	conj	_	SpaceAfter=No
 5	's	's	PART	POS	_	4	case	_	_
-6	sold	sell	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+6	sold	sell	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
 7	quickly	quickly	ADV	RB	_	6	advmod	_	SpaceAfter=No
 8	.	.	PUNCT	Period	_	7	punct	_	_
 
@@ -1630,7 +1630,7 @@
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_
 4	dealer	dealer	NOUN	NN	Number=Sing	1	conj	_	SpaceAfter=No
 5	's	's	PART	POS	_	4	case	_	_
-6	sold	sell	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	_
+6	sold	sell	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin	0	root	_	_
 7	quickly	quickly	ADV	RB	_	6	advmod	_	SpaceAfter=No
 8	.	.	PUNCT	Period	_	7	punct	_	_
 
@@ -1810,7 +1810,7 @@
 # previous = What happened to my car?
 # comment = passive subject
 1	Yours	you	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	3	nsubj	_	_
-2	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	3	aux:pass	_	_
+2	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux:pass	_	_
 3	cleaned	clean	VERB	V	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	Period	_	3	punct	_	_
 
@@ -1819,11 +1819,11 @@
 # previous = What happened to Alex's car?
 # comment = "of" genitive in subject of active sentence 
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
-2	car	car	NOUN	NN	Number=Sing	6	nsubj	_	_
+2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
 3	of	of	ADP	IN	_	4	case	_	_
 4	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod	_	_
 5	drove	drive	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-6	responsively	responsive	ADV	RB	_	5	advmod	_	SpaceAfter=No
+6	responsively	responsively	ADV	RB	_	5	advmod	_	SpaceAfter=No
 7	.	.	PUNCT	Period	_	6	punct	_	_
 
 # sent_id = 172
@@ -1831,11 +1831,11 @@
 # previous = What happened to Alex's car?
 # comment = "of" genitive in subject of active sentence 
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
-2	car	car	NOUN	NN	Number=Sing	6	nsubj	_	_
+2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
 3	of	of	ADP	IN	_	4	case	_	_
 4	his	he	PRON	SG-GEN-INDEP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod	_	_
 5	drove	drive	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-6	responsively	responsive	ADV	RB	_	5	advmod	_	SpaceAfter=No
+6	responsively	responsively	ADV	RB	_	5	advmod	_	SpaceAfter=No
 7	.	.	PUNCT	Period	_	6	punct	_	_
 
 # sent_id = 173
@@ -1843,11 +1843,11 @@
 # previous = What happened to Alex's car?
 # comment = "of" genitive in subject of active sentence 
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
-2	car	car	NOUN	NN	Number=Sing	6	nsubj	_	_
+2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
 3	of	of	ADP	IN	_	4	case	_	_
 4	theirs	they	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod	_	_
 5	drove	drive	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-6	responsively	responsive	ADV	RB	_	5	advmod	_	SpaceAfter=No
+6	responsively	responsively	ADV	RB	_	5	advmod	_	SpaceAfter=No
 7	.	.	PUNCT	Period	_	6	punct	_	_
 
 # sent_id = 174
@@ -1855,11 +1855,11 @@
 # previous = What happened to your car?
 # comment = "of" genitive in subject of active sentence 
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
-2	car	car	NOUN	NN	Number=Sing	6	nsubj	_	_
+2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
 3	of	of	ADP	IN	_	4	case	_	_
 4	mine	me	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod	_	_
 5	drove	drive	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
-6	responsively	responsive	ADV	RB	_	5	advmod	_	SpaceAfter=No
+6	responsively	responsively	ADV	RB	_	5	advmod	_	SpaceAfter=No
 7	.	.	PUNCT	Period	_	6	punct	_	_
 
 # sent_id = 175
@@ -1867,11 +1867,11 @@
 # previous = What happened to my car?
 # comment = "of" genitive in subject of active sentence 
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
-2	car	car	NOUN	NN	Number=Sing	6	nsubj	_	_
+2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
 3	of	of	ADP	IN	_	4	case	_	_
 4	yours	you	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	2	nmod	_	_
 5	drove	drive	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	_
-6	responsively	responsive	ADV	RB	_	5	advmod	_	SpaceAfter=No
+6	responsively	responsively	ADV	RB	_	5	advmod	_	SpaceAfter=No
 7	.	.	PUNCT	Period	_	6	punct	_	_
 
 # sent_id = 176
@@ -2000,7 +2000,7 @@
 3	,	,	PUNCT	,	_	2	punct	_	_
 4	yours	you	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	2	appos	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	2	punct	_	_
-6	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	7	aux:pass	_	_
+6	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux:pass	_	_
 7	cleaned	clean	VERB	V	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	Period	_	7	punct	_	_
 
@@ -2055,7 +2055,7 @@
 1	One	one	NUM	N	NumType=Card	5	nsubj	_	_
 2	of	of	ADP	IN	_	3	case	_	_
 3	yours	you	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	1	nmod	_	_
-4	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	5	aux:pass	_	_
+4	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux:pass	_	_
 5	cleaned	clean	VERB	V	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	Period	_	5	punct	_	_
 
@@ -2115,7 +2115,7 @@
 2	car	car	NOUN	NN	Number=Sing	6	nsubj	_	_
 3	of	of	ADP	IN	_	4	case	_	_
 4	yours	you	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	2	nmod	_	_
-5	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	6	aux:pass	_	_
+5	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	aux:pass	_	_
 6	cleaned	clean	VERB	V	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	Period	_	6	punct	_	_
 
@@ -2179,8 +2179,8 @@
 # previous = What did the dealers like doing with Alex's cars?
 # comment = with orphaned dependent preceding due to verb ellipsis in conjunction
 1	Dealers	dealer	NOUN	_	Number=Plur	2	nsubj	_	_
-2	like	like	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	seeing	see	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Inf	2	xcomp	_	_
+2	like	like	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	seeing	see	VERB	V	Mood=Part|Tense=Pres	2	xcomp	_	_
 4	cars	car	NOUN	_	Number=Plur	3	obj	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	2	punct	_	_
 6	especially	especially	ADV	RB	_	7	orphan	_	_
@@ -2192,8 +2192,8 @@
 # previous = What did the dealers like doing with Alex's cars?
 # comment = with orphaned dependent preceding due to verb ellipsis in conjunction
 1	Dealers	dealer	NOUN	_	Number=Plur	2	nsubj	_	_
-2	like	like	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	seeing	see	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Inf	2	xcomp	_	_
+2	like	like	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	seeing	see	VERB	V	Mood=Part|Tense=Pres	2	xcomp	_	_
 4	cars	car	NOUN	_	Number=Plur	3	obj	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	2	punct	_	_
 6	especially	especially	ADV	RB	_	7	orphan	_	_
@@ -2205,8 +2205,8 @@
 # previous = What did the dealers like doing with Alex's cars?
 # comment = with orphaned dependent preceding due to verb ellipsis in conjunction
 1	Dealers	dealer	NOUN	_	Number=Plur	2	nsubj	_	_
-2	like	like	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	seeing	see	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Inf	2	xcomp	_	_
+2	like	like	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	seeing	see	VERB	V	Mood=Part|Tense=Pres	2	xcomp	_	_
 4	cars	car	NOUN	_	Number=Plur	3	obj	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	2	punct	_	_
 6	especially	especially	ADV	RB	_	7	orphan	_	_
@@ -2218,8 +2218,8 @@
 # previous = What did the dealers like doing with your cars?
 # comment = with orphaned dependent preceding due to verb ellipsis in conjunction
 1	Dealers	dealer	NOUN	_	Number=Plur	2	nsubj	_	_
-2	like	like	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	seeing	see	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Inf	2	xcomp	_	_
+2	like	like	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	seeing	see	VERB	V	Mood=Part|Tense=Pres	2	xcomp	_	_
 4	cars	car	NOUN	_	Number=Plur	3	obj	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	2	punct	_	_
 6	especially	especially	ADV	RB	_	7	orphan	_	_
@@ -2231,8 +2231,8 @@
 # previous = What did the dealers like doing with my cars?
 # comment = with orphaned dependent preceding due to verb ellipsis in conjunction
 1	Dealers	dealer	NOUN	_	Number=Plur	2	nsubj	_	_
-2	like	like	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	seeing	see	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Inf	2	xcomp	_	_
+2	like	like	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	seeing	see	VERB	V	Mood=Part|Tense=Pres	2	xcomp	_	_
 4	cars	car	NOUN	_	Number=Plur	3	obj	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	2	punct	_	_
 6	especially	especially	ADV	RB	_	7	orphan	_	_
@@ -2244,8 +2244,8 @@
 # previous = What did the dealers like doing with Alex's cars?
 # comment = with orphaned following dependent due to verb ellipsis in conjunction
 1	Dealers	dealer	NOUN	_	Number=Plur	2	nsubj	_	_
-2	like	like	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	seeing	see	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Inf	2	xcomp	_	_
+2	like	like	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	seeing	see	VERB	V	Mood=Part|Tense=Pres	2	xcomp	_	_
 4	cars	car	NOUN	_	Number=Plur	3	obj	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	2	punct	_	_
 6	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	conj	_	_
@@ -2257,8 +2257,8 @@
 # previous = What did the dealers like doing with Alex's cars?
 # comment = with orphaned following dependent due to verb ellipsis in conjunction
 1	Dealers	dealer	NOUN	_	Number=Plur	2	nsubj	_	_
-2	like	like	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	seeing	see	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Inf	2	xcomp	_	_
+2	like	like	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	seeing	see	VERB	V	Mood=Part|Tense=Pres	2	xcomp	_	_
 4	cars	car	NOUN	_	Number=Plur	3	obj	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	2	punct	_	_
 6	his	he	PRON	SG-GEN-INDEP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	conj	_	_
@@ -2270,8 +2270,8 @@
 # previous = What did the dealers like doing with Alex's cars?
 # comment = with orphaned following dependent due to verb ellipsis in conjunction
 1	Dealers	dealer	NOUN	_	Number=Plur	2	nsubj	_	_
-2	like	like	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	seeing	see	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Inf	2	xcomp	_	_
+2	like	like	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	seeing	see	VERB	V	Mood=Part|Tense=Pres	2	xcomp	_	_
 4	cars	car	NOUN	_	Number=Plur	3	obj	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	2	punct	_	_
 6	theirs	they	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	conj	_	_
@@ -2283,8 +2283,8 @@
 # previous = What did the dealers like doing with your cars?
 # comment = with orphaned following dependent due to verb ellipsis in conjunction
 1	Dealers	dealer	NOUN	_	Number=Plur	2	nsubj	_	_
-2	like	like	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	seeing	see	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Inf	2	xcomp	_	_
+2	like	like	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	seeing	see	VERB	V	Mood=Part|Tense=Pres	2	xcomp	_	_
 4	cars	car	NOUN	_	Number=Plur	3	obj	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	2	punct	_	_
 6	mine	me	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	conj	_	_
@@ -2296,8 +2296,8 @@
 # previous = What did the dealers like doing with my cars?
 # comment = with orphaned following dependent due to verb ellipsis in conjunction
 1	Dealers	dealer	NOUN	_	Number=Plur	2	nsubj	_	_
-2	like	like	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	seeing	see	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Inf	2	xcomp	_	_
+2	like	like	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	seeing	see	VERB	V	Mood=Part|Tense=Pres	2	xcomp	_	_
 4	cars	car	NOUN	_	Number=Plur	3	obj	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	2	punct	_	_
 6	yours	you	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	2	conj	_	_
@@ -2375,7 +2375,7 @@
 5	car	car	NOUN	NN	Number=Sing	3	obj	_	SpaceAfter=No
 6	:	:	PUNCT	:	_	3	punct	_	_
 7	it	it	PRON	PERS-SG	_	9	nsubj	_	_
-8	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	9	aux:pass	_	_
+8	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	aux:pass	_	_
 9	yours	you	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	3	parataxis	_	SpaceAfter=No
 10	.	.	PUNCT	Period	_	3	punct	_	_
 
@@ -2884,7 +2884,7 @@
 4	that	that	SCONJ	_	_	6	mark	_	_
 5	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
 6	get	get	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
-7	painted	paint	ADJ	POS	Degree=Pos	6	xcomp	_	SpaceAfter=No
+7	painted	painted	ADJ	POS	Degree=Pos	6	xcomp	_	SpaceAfter=No
 8	.	.	PUNCT	Period	_	3	punct	_	_
 
 # sent_id = 262
@@ -2897,7 +2897,7 @@
 4	that	that	SCONJ	_	_	6	mark	_	_
 5	his	he	PRON	SG-GEN-INDEP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
 6	get	get	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
-7	painted	paint	ADJ	POS	Degree=Pos	6	xcomp	_	SpaceAfter=No
+7	painted	painted	ADJ	POS	Degree=Pos	6	xcomp	_	SpaceAfter=No
 8	.	.	PUNCT	Period	_	3	punct	_	_
 
 # sent_id = 263
@@ -2910,7 +2910,7 @@
 4	that	that	SCONJ	_	_	6	mark	_	_
 5	theirs	they	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
 6	get	get	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
-7	painted	paint	ADJ	POS	Degree=Pos	6	xcomp	_	SpaceAfter=No
+7	painted	painted	ADJ	POS	Degree=Pos	6	xcomp	_	SpaceAfter=No
 8	.	.	PUNCT	Period	_	3	punct	_	_
 
 # sent_id = 264
@@ -2923,7 +2923,7 @@
 4	that	that	SCONJ	_	_	6	mark	_	_
 5	mine	me	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nsubj	_	_
 6	get	get	VERB	V	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
-7	painted	paint	ADJ	POS	Degree=Pos	6	xcomp	_	SpaceAfter=No
+7	painted	painted	ADJ	POS	Degree=Pos	6	xcomp	_	SpaceAfter=No
 8	.	.	PUNCT	Period	_	3	punct	_	_
 
 # sent_id = 265
@@ -2936,7 +2936,7 @@
 4	that	that	SCONJ	_	_	6	mark	_	_
 5	yours	you	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	6	nsubj	_	_
 6	get	get	VERB	V	Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
-7	painted	paint	ADJ	POS	Degree=Pos	6	xcomp	_	SpaceAfter=No
+7	painted	painted	ADJ	POS	Degree=Pos	6	xcomp	_	SpaceAfter=No
 8	.	.	PUNCT	Period	_	3	punct	_	_
 
 # sent_id = 266
@@ -2984,10 +2984,10 @@
 # previous = What did the dealer like about Alex's car?
 # comment = extraction/raising via "tough extraction" and clausal subject
 1	Hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nsubj	_	_
-2	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Inf	3	cop	_	_
+2	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	easy	easy	ADJ	JJ	Degree=Pos	0	root	_	_
 4	to	to	PART	TO	_	5	mark	_	_
-5	clean	clean	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	csubj	_	SpaceAfter=No
+5	clean	clean	VERB	V	VerbForm=Inf	3	csubj	_	SpaceAfter=No
 6	.	.	PUNCT	Period	_	5	punct	_	_
 
 # sent_id = 272
@@ -2995,10 +2995,10 @@
 # previous = What did the dealer like about Alex's car?
 # comment = extraction/raising via "tough extraction" and clausal subject
 1	His	he	PRON	SG-GEN-INDEP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nsubj	_	_
-2	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Inf	3	cop	_	_
+2	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	easy	easy	ADJ	JJ	Degree=Pos	0	root	_	_
 4	to	to	PART	TO	_	5	mark	_	_
-5	clean	clean	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	csubj	_	SpaceAfter=No
+5	clean	clean	VERB	V	VerbForm=Inf	3	csubj	_	SpaceAfter=No
 6	.	.	PUNCT	Period	_	5	punct	_	_
 
 # sent_id = 273
@@ -3006,10 +3006,10 @@
 # previous = What did the dealer like about Alex's car?
 # comment = extraction/raising via "tough extraction" and clausal subject
 1	Theirs	they	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nsubj	_	_
-2	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Inf	3	cop	_	_
+2	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	easy	easy	ADJ	JJ	Degree=Pos	0	root	_	_
 4	to	to	PART	TO	_	5	mark	_	_
-5	clean	clean	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	csubj	_	SpaceAfter=No
+5	clean	clean	VERB	V	VerbForm=Inf	3	csubj	_	SpaceAfter=No
 6	.	.	PUNCT	Period	_	5	punct	_	_
 
 # sent_id = 274
@@ -3017,10 +3017,10 @@
 # previous = What did the dealer like about your car?
 # comment = extraction/raising via "tough extraction" and clausal subject
 1	Mine	me	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nsubj	_	_
-2	is	be	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Inf	3	cop	_	_
+2	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	easy	easy	ADJ	JJ	Degree=Pos	0	root	_	_
 4	to	to	PART	TO	_	5	mark	_	_
-5	clean	clean	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	csubj	_	SpaceAfter=No
+5	clean	clean	VERB	V	VerbForm=Inf	3	csubj	_	SpaceAfter=No
 6	.	.	PUNCT	Period	_	5	punct	_	_
 
 # sent_id = 275
@@ -3028,10 +3028,10 @@
 # previous = What did the dealer like about my car?
 # comment = extraction/raising via "tough extraction" and clausal subject
 1	Yours	you	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	3	nsubj	_	_
-2	is	be	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Inf	3	cop	_	_
+2	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	easy	easy	ADJ	JJ	Degree=Pos	0	root	_	_
 4	to	to	PART	TO	_	5	mark	_	_
-5	clean	clean	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	csubj	_	SpaceAfter=No
+5	clean	clean	VERB	V	VerbForm=Inf	3	csubj	_	SpaceAfter=No
 6	.	.	PUNCT	Period	_	5	punct	_	_
 
 # sent_id = 276
@@ -3063,7 +3063,7 @@
 # previous = What does your car do?
 # comment = subject of unaccusative intransitive
 1	Mine	me	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nsubj	_	_
-2	parks	park	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+2	parks	park	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	Period	_	2	punct	_	_
 
 # sent_id = 280
@@ -3071,7 +3071,7 @@
 # previous = What does my car do?
 # comment = subject of unaccusative intransitive
 1	Yours	you	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	2	nsubj	_	_
-2	parks	park	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+2	parks	park	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	Period	_	2	punct	_	_
 
 # sent_id = 281
