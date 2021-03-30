@@ -2895,7 +2895,7 @@
 4	that	that	SCONJ	IN	_	6	mark	_	_
 5	hers	hers	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
 6	get	get	VERB	VBP	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
-7	painted	painted	ADJ	VBN	Degree=Pos	6	xcomp	_	SpaceAfter=No
+7	painted	paint	VERB	VBN	Tense=Past|VerbForm=Part	6	xcomp	_	SpaceAfter=No
 8	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = 262
@@ -2908,7 +2908,7 @@
 4	that	that	SCONJ	IN	_	6	mark	_	_
 5	his	his	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
 6	get	get	VERB	VBP	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
-7	painted	painted	ADJ	VBN	Degree=Pos	6	xcomp	_	SpaceAfter=No
+7	painted	paint	VERB	VBN	Tense=Past|VerbForm=Part	6	xcomp	_	SpaceAfter=No
 8	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = 263
@@ -2921,7 +2921,7 @@
 4	that	that	SCONJ	IN	_	6	mark	_	_
 5	theirs	theirs	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
 6	get	get	VERB	VBP	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
-7	painted	painted	ADJ	VBN	Degree=Pos	6	xcomp	_	SpaceAfter=No
+7	painted	paint	VERB	VBN	Tense=Past|VerbForm=Part	6	xcomp	_	SpaceAfter=No
 8	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = 264
@@ -2934,7 +2934,7 @@
 4	that	that	SCONJ	IN	_	6	mark	_	_
 5	mine	mine	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nsubj	_	_
 6	get	get	VERB	VBP	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
-7	painted	painted	ADJ	VBN	Degree=Pos	6	xcomp	_	SpaceAfter=No
+7	painted	paint	VERB	VBN	Tense=Past|VerbForm=Part	6	xcomp	_	SpaceAfter=No
 8	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = 265
@@ -2947,7 +2947,7 @@
 4	that	that	SCONJ	IN	_	6	mark	_	_
 5	yours	yours	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	6	nsubj	_	_
 6	get	get	VERB	VBP	Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
-7	painted	painted	ADJ	VBN	Degree=Pos	6	xcomp	_	SpaceAfter=No
+7	painted	paint	VERB	VBN	Tense=Past|VerbForm=Part	6	xcomp	_	SpaceAfter=No
 8	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = 266
