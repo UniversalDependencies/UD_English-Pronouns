@@ -30,7 +30,7 @@
     <tag name="VERB">265</tag><!-- clean, like, sell, see, drive, be, get, give, know, accelerate -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="27">
+  <feats unique="26">
     <feat name="Case" value="Nom" upos="DET">10</feat><!-- all -->
     <feat name="Definite" value="Def" upos="DET">180</feat><!-- the -->
     <feat name="Degree" value="Pos" upos="ADJ">5</feat><!-- easy -->
@@ -39,7 +39,6 @@
     <feat name="Gender" value="Neut" upos="PRON">171</feat><!-- mine, theirs, yours -->
     <feat name="Mood" value="Imp" upos="VERB">5</feat><!-- Take -->
     <feat name="Mood" value="Ind" upos="AUX,VERB">305</feat><!-- 's, is, cleaned, was, like, drove, sold, ai, gave, knew -->
-    <feat name="Mood" value="Part" upos="VERB">20</feat><!-- seeing, cleaning -->
     <feat name="Mood" value="Sub" upos="VERB">5</feat><!-- get -->
     <feat name="Number" value="Plur" upos="NOUN,VERB">95</feat><!-- dealers, like, cars, bumps, sell, sold -->
     <feat name="Number" value="Sing" upos="AUX,NOUN,PRON,VERB">700</feat><!-- dealer, car, hers, his, mine, theirs, yours, 's, is, cleaned -->
@@ -57,7 +56,7 @@
     <feat name="VerbForm" value="Fin" upos="AUX,VERB">320</feat><!-- 's, is, cleaned, was, like, drove, sold, ai, gave, knew -->
     <feat name="VerbForm" value="Ger" upos="VERB">5</feat><!-- using -->
     <feat name="VerbForm" value="Inf" upos="VERB">5</feat><!-- clean -->
-    <feat name="VerbForm" value="Part" upos="VERB">25</feat><!-- cleaned, painted -->
+    <feat name="VerbForm" value="Part" upos="VERB">45</feat><!-- cleaned, seeing, cleaning, painted -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
   <deps unique="26">
