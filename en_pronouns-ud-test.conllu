@@ -314,7 +314,6 @@
 4	theirs	theirs	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	.	_	4	punct	_	_
 
-
 # sent_id = 34
 # text = it aint mine.
 # previous = Does this belong to Alex?
@@ -678,7 +677,7 @@
 6	.	.	PUNCT	.	_	5	punct	_	_
 
 # sent_id = 68
-# text = The car aint their.s
+# text = The car aint theirs.
 # previous = Does the car belong to Alex?
 # comment = copular object with informal negation
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
