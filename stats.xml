@@ -30,8 +30,7 @@
     <tag name="VERB">255</tag><!-- clean, like, sell, see, drive, be, get, give, know, accelerate -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="27">
-    <feat name="Case" value="Gen" upos="PRON">285</feat><!-- hers, his, mine, theirs, yours -->
+  <feats unique="26">
     <feat name="Case" value="Nom" upos="PRON">10</feat><!-- all -->
     <feat name="Definite" value="Def" upos="DET">180</feat><!-- the -->
     <feat name="Degree" value="Pos" upos="ADJ">10</feat><!-- easy, painted -->
