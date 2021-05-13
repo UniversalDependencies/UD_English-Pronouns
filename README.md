@@ -88,6 +88,8 @@ Please cite this book if using this dataset.
 
 # Changelog
 
+* 2021-05-15 v2.8
+  * Removed Case=Gen. This feature is not documented for English and not used in the other English UD treebanks.
 * 2019-10-17 v1.0
   * First release in UD
 
