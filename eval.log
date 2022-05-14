@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 3478a99bb195eb8749c367af4f7b3fd357a12a4c
-Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue Nov 2 22:17:19 2021 +0100
+commit ba6fbf413cb14afa25145b931c79fb60ef9456e2
+Author: www-data (nschneid) <nschneid@github.com>
+Date:   Wed May 11 05:10:30 2022 +0200
 Evaluating the following revision of UD_English-Pronouns:
-commit 1f3a540d0dccce44e05242b0c0884ecafb2a41cc
+commit 85b90f018315a88a5d85530fe826367093bd1a7a
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Thu May 13 09:06:54 2021 +0200
+Date:   Wed Nov 3 16:10:14 2021 +0100
 Size: counted 1705 of 1705 words (nodes).
 Size: min(0, log((N/1000)**2)) = 1.06713022147096.
 Size: maximum value 13.815511 is for 1000000 words or more.
