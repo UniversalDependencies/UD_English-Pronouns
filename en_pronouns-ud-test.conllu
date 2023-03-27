@@ -1590,7 +1590,7 @@
 5	's	's	PART	POS	_	4	case	_	_
 6	sold	sell	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 7	quickly	quickly	ADV	RB	_	6	advmod	_	SpaceAfter=No
-8	.	.	PUNCT	.	_	7	punct	_	_
+8	.	.	PUNCT	.	_	6	punct	_	_
 
 # sent_id = 152
 # text = His and the dealer's sold quickly.
@@ -1603,7 +1603,7 @@
 5	's	's	PART	POS	_	4	case	_	_
 6	sold	sell	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 7	quickly	quickly	ADV	RB	_	6	advmod	_	SpaceAfter=No
-8	.	.	PUNCT	.	_	7	punct	_	_
+8	.	.	PUNCT	.	_	6	punct	_	_
 
 # sent_id = 153
 # text = Theirs and the dealer's sold quickly.
@@ -1616,7 +1616,7 @@
 5	's	's	PART	POS	_	4	case	_	_
 6	sold	sell	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 7	quickly	quickly	ADV	RB	_	6	advmod	_	SpaceAfter=No
-8	.	.	PUNCT	.	_	7	punct	_	_
+8	.	.	PUNCT	.	_	6	punct	_	_
 
 # sent_id = 154
 # text = Mine and the dealer's sold quickly.
@@ -1629,7 +1629,7 @@
 5	's	's	PART	POS	_	4	case	_	_
 6	sold	sell	VERB	VBD	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
 7	quickly	quickly	ADV	RB	_	6	advmod	_	SpaceAfter=No
-8	.	.	PUNCT	.	_	7	punct	_	_
+8	.	.	PUNCT	.	_	6	punct	_	_
 
 # sent_id = 155
 # text = Yours and the dealer's sold quickly.
@@ -1642,7 +1642,7 @@
 5	's	's	PART	POS	_	4	case	_	_
 6	sold	sell	VERB	VBD	Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin	0	root	_	_
 7	quickly	quickly	ADV	RB	_	6	advmod	_	SpaceAfter=No
-8	.	.	PUNCT	.	_	7	punct	_	_
+8	.	.	PUNCT	.	_	6	punct	_	_
 
 # sent_id = 156
 # text = The dealer cleaned the car before hers.
@@ -1834,7 +1834,7 @@
 4	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod	_	_
 5	drove	drive	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 6	responsively	responsively	ADV	RB	_	5	advmod	_	SpaceAfter=No
-7	.	.	PUNCT	.	_	6	punct	_	_
+7	.	.	PUNCT	.	_	5	punct	_	_
 
 # sent_id = 172
 # text = The car of his drove responsively.
@@ -1846,7 +1846,7 @@
 4	his	his	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod	_	_
 5	drove	drive	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 6	responsively	responsively	ADV	RB	_	5	advmod	_	SpaceAfter=No
-7	.	.	PUNCT	.	_	6	punct	_	_
+7	.	.	PUNCT	.	_	5	punct	_	_
 
 # sent_id = 173
 # text = The car of theirs drove responsively.
@@ -1858,7 +1858,7 @@
 4	theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod	_	_
 5	drove	drive	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 6	responsively	responsively	ADV	RB	_	5	advmod	_	SpaceAfter=No
-7	.	.	PUNCT	.	_	6	punct	_	_
+7	.	.	PUNCT	.	_	5	punct	_	_
 
 # sent_id = 174
 # text = The car of mine drove responsively.
@@ -1870,7 +1870,7 @@
 4	mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod	_	_
 5	drove	drive	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
 6	responsively	responsively	ADV	RB	_	5	advmod	_	SpaceAfter=No
-7	.	.	PUNCT	.	_	6	punct	_	_
+7	.	.	PUNCT	.	_	5	punct	_	_
 
 # sent_id = 175
 # text = The car of yours drove responsively.
@@ -1882,7 +1882,7 @@
 4	yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	2	nmod	_	_
 5	drove	drive	VERB	VBD	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	_
 6	responsively	responsively	ADV	RB	_	5	advmod	_	SpaceAfter=No
-7	.	.	PUNCT	.	_	6	punct	_	_
+7	.	.	PUNCT	.	_	5	punct	_	_
 
 # sent_id = 176
 # text = The dealer cleaned the car of hers.
@@ -2998,7 +2998,7 @@
 3	easy	easy	ADJ	JJ	Degree=Pos	0	root	_	_
 4	to	to	PART	TO	_	5	mark	_	_
 5	clean	clean	VERB	VB	VerbForm=Inf	3	advcl	_	SpaceAfter=No
-6	.	.	PUNCT	.	_	5	punct	_	_
+6	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = 272
 # text = His is easy to clean.
@@ -3009,7 +3009,7 @@
 3	easy	easy	ADJ	JJ	Degree=Pos	0	root	_	_
 4	to	to	PART	TO	_	5	mark	_	_
 5	clean	clean	VERB	VB	VerbForm=Inf	3	advcl	_	SpaceAfter=No
-6	.	.	PUNCT	.	_	5	punct	_	_
+6	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = 273
 # text = Theirs is easy to clean.
@@ -3020,7 +3020,7 @@
 3	easy	easy	ADJ	JJ	Degree=Pos	0	root	_	_
 4	to	to	PART	TO	_	5	mark	_	_
 5	clean	clean	VERB	VB	VerbForm=Inf	3	advcl	_	SpaceAfter=No
-6	.	.	PUNCT	.	_	5	punct	_	_
+6	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = 274
 # text = Mine is easy to clean.
@@ -3031,7 +3031,7 @@
 3	easy	easy	ADJ	JJ	Degree=Pos	0	root	_	_
 4	to	to	PART	TO	_	5	mark	_	_
 5	clean	clean	VERB	VB	VerbForm=Inf	3	advcl	_	SpaceAfter=No
-6	.	.	PUNCT	.	_	5	punct	_	_
+6	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = 275
 # text = Yours is easy to clean.
@@ -3042,7 +3042,7 @@
 3	easy	easy	ADJ	JJ	Degree=Pos	0	root	_	_
 4	to	to	PART	TO	_	5	mark	_	_
 5	clean	clean	VERB	VB	VerbForm=Inf	3	advcl	_	SpaceAfter=No
-6	.	.	PUNCT	.	_	5	punct	_	_
+6	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = 276
 # text = Hers parks.
