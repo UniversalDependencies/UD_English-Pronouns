@@ -48,7 +48,8 @@
 # text = It's hers.
 # previous = Which person owns this?
 # comment = abbreviated copular subject
-1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	SpaceAfter=No
+1-2	It's	_	_	_	_	_	_	_	_
+1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
 2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	.	_	3	punct	_	_
@@ -57,7 +58,8 @@
 # text = It's his.
 # previous = Which person owns this?
 # comment = abbreviated copular subject
-1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	SpaceAfter=No
+1-2	It's	_	_	_	_	_	_	_	_
+1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
 2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	his	his	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	.	_	3	punct	_	_
@@ -66,7 +68,8 @@
 # text = It's theirs.
 # previous = Which person owns this?
 # comment = abbreviated copular subject
-1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	SpaceAfter=No
+1-2	It's	_	_	_	_	_	_	_	_
+1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
 2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	.	_	3	punct	_	_
@@ -75,7 +78,8 @@
 # text = It's mine.
 # previous = Which person owns this?
 # comment = abbreviated copular subject
-1	It	it	PRON	PRP	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	SpaceAfter=No
+1-2	It's	_	_	_	_	_	_	_	_
+1	It	it	PRON	PRP	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	.	_	3	punct	_	_
@@ -84,7 +88,8 @@
 # text = It's yours.
 # previous = Which person owns this?
 # comment = abbreviated copular subject
-1	It	it	PRON	PRP	Number=Sing|Person=2|PronType=Prs	3	nsubj	_	SpaceAfter=No
+1-2	It's	_	_	_	_	_	_	_	_
+1	It	it	PRON	PRP	Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
 2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	.	_	3	punct	_	_
@@ -93,7 +98,8 @@
 # text = It's all hers!
 # previous = Which person owns this?
 # comment = predeterminer modifier
-1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	SpaceAfter=No
+1-2	It's	_	_	_	_	_	_	_	_
+1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
 2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	all	all	DET	DT	Case=Nom	4	det:predet	_	_
 4	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
@@ -103,7 +109,8 @@
 # text = It's all his!
 # previous = Which person owns this?
 # comment = predeterminer modifier
-1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	SpaceAfter=No
+1-2	It's	_	_	_	_	_	_	_	_
+1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
 2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	all	all	DET	DT	Case=Nom	4	det:predet	_	_
 4	his	his	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
@@ -113,7 +120,8 @@
 # text = It's all theirs!
 # previous = Which person owns this?
 # comment = predeterminer modifier
-1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	SpaceAfter=No
+1-2	It's	_	_	_	_	_	_	_	_
+1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
 2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	all	all	DET	DT	Case=Nom	4	det:predet	_	_
 4	theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
@@ -123,7 +131,8 @@
 # text = It's all mine!
 # previous = Which person owns this?
 # comment = predeterminer modifier
-1	It	it	PRON	PRP	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	SpaceAfter=No
+1-2	It's	_	_	_	_	_	_	_	_
+1	It	it	PRON	PRP	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
 2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	all	all	DET	DT	Case=Nom	4	det:predet	_	_
 4	mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
@@ -133,7 +142,8 @@
 # text = It's all yours!
 # previous = Which person owns this?
 # comment = predeterminer modifier
-1	It	it	PRON	PRP	Number=Sing|Person=2|PronType=Prs	4	nsubj	_	SpaceAfter=No
+1-2	It's	_	_	_	_	_	_	_	_
+1	It	it	PRON	PRP	Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
 2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	all	all	DET	DT	Case=Nom	4	det:predet	_	_
 4	yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
@@ -143,7 +153,8 @@
 # text = It's mostly hers.
 # previous = Which person owns this?
 # comment = adverbial modifier
-1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	SpaceAfter=No
+1-2	It's	_	_	_	_	_	_	_	_
+1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
 2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	mostly	mostly	ADV	RB	_	4	advmod	_	_
 4	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
@@ -153,7 +164,8 @@
 # text = It's mostly his.
 # previous = Which person owns this?
 # comment = adverbial modifier
-1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	SpaceAfter=No
+1-2	It's	_	_	_	_	_	_	_	_
+1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
 2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	mostly	mostly	ADV	RB	_	4	advmod	_	_
 4	his	his	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
@@ -163,7 +175,8 @@
 # text = It's mostly theirs.
 # previous = Which person owns this?
 # comment = adverbial modifier
-1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	SpaceAfter=No
+1-2	It's	_	_	_	_	_	_	_	_
+1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
 2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	mostly	mostly	ADV	RB	_	4	advmod	_	_
 4	theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
@@ -173,7 +186,8 @@
 # text = It's mostly mine.
 # previous = Which person owns this?
 # comment = adverbial modifier
-1	It	it	PRON	PRP	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	SpaceAfter=No
+1-2	It's	_	_	_	_	_	_	_	_
+1	It	it	PRON	PRP	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
 2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	mostly	mostly	ADV	RB	_	4	advmod	_	_
 4	mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
@@ -183,7 +197,8 @@
 # text = It's mostly yours.
 # previous = Which person owns this?
 # comment = adverbial modifier
-1	It	it	PRON	PRP	Number=Sing|Person=2|PronType=Prs	4	nsubj	_	SpaceAfter=No
+1-2	It's	_	_	_	_	_	_	_	_
+1	It	it	PRON	PRP	Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
 2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	mostly	mostly	ADV	RB	_	4	advmod	_	_
 4	yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
@@ -191,8 +206,9 @@
 
 # sent_id = 21
 # text = It's not hers!
-# comment = negation 
-1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	SpaceAfter=No
+# comment = negation
+1-2	It's	_	_	_	_	_	_	_	_
+1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
 2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	not	not	PART	RB	Polarity=Neg	4	advmod	_	_
 4	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
@@ -200,8 +216,9 @@
 
 # sent_id = 22
 # text = It's not his!
-# comment = negation 
-1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	SpaceAfter=No
+# comment = negation
+1-2	It's	_	_	_	_	_	_	_	_
+1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
 2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	not	not	PART	RB	Polarity=Neg	4	advmod	_	_
 4	his	his	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
@@ -209,8 +226,9 @@
 
 # sent_id = 23
 # text = It's not theirs!
-# comment = negation 
-1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	SpaceAfter=No
+# comment = negation
+1-2	It's	_	_	_	_	_	_	_	_
+1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
 2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	not	not	PART	RB	Polarity=Neg	4	advmod	_	_
 4	theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
@@ -218,8 +236,9 @@
 
 # sent_id = 24
 # text = It's not mine!
-# comment = negation 
-1	It	it	PRON	PRP	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	SpaceAfter=No
+# comment = negation
+1-2	It's	_	_	_	_	_	_	_	_
+1	It	it	PRON	PRP	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
 2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	not	not	PART	RB	Polarity=Neg	4	advmod	_	_
 4	mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
@@ -227,8 +246,9 @@
 
 # sent_id = 25
 # text = It's not yours!
-# comment = negation 
-1	It	it	PRON	PRP	Number=Sing|Person=2|PronType=Prs	4	nsubj	_	SpaceAfter=No
+# comment = negation
+1-2	It's	_	_	_	_	_	_	_	_
+1	It	it	PRON	PRP	Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
 2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	not	not	PART	RB	Polarity=Neg	4	advmod	_	_
 4	yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
@@ -237,9 +257,10 @@
 # sent_id = 26
 # text = It isn't hers.
 # previous = Does this belong to Alex?
-# comment = abbreviated negation 
+# comment = abbreviated negation
 1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
-2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	SpaceAfter=No
+2-3	isn't	_	_	_	_	_	_	_	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	n't	not	PART	RB	Polarity=Neg	4	advmod	_	_
 4	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	.	_	4	punct	_	_
@@ -247,9 +268,10 @@
 # sent_id = 27
 # text = It isn't his.
 # previous = Does this belong to Alex?
-# comment = abbreviated negation 
+# comment = abbreviated negation
 1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
-2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	SpaceAfter=No
+2-3	isn't	_	_	_	_	_	_	_	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	n't	not	PART	RB	Polarity=Neg	4	advmod	_	_
 4	his	his	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	.	_	4	punct	_	_
@@ -257,9 +279,10 @@
 # sent_id = 28
 # text = It isn't theirs.
 # previous = Does this belong to Alex?
-# comment = abbreviated negation 
+# comment = abbreviated negation
 1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
-2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	SpaceAfter=No
+2-3	isn't	_	_	_	_	_	_	_	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	n't	not	PART	RB	Polarity=Neg	4	advmod	_	_
 4	theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	.	_	4	punct	_	_
@@ -267,9 +290,10 @@
 # sent_id = 29
 # text = It isn't mine.
 # previous = Does this belong to Alex?
-# comment = abbreviated negation 
+# comment = abbreviated negation
 1	It	it	PRON	PRP	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
-2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	SpaceAfter=No
+2-3	isn't	_	_	_	_	_	_	_	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	n't	not	PART	RB	Polarity=Neg	4	advmod	_	_
 4	mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	.	_	4	punct	_	_
@@ -277,9 +301,10 @@
 # sent_id = 30
 # text = It isn't yours.
 # previous = Does this belong to Alex?
-# comment = abbreviated negation 
+# comment = abbreviated negation
 1	It	it	PRON	PRP	Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
-2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	SpaceAfter=No
+2-3	isn't	_	_	_	_	_	_	_	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	n't	not	PART	RB	Polarity=Neg	4	advmod	_	_
 4	yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	.	_	4	punct	_	_
@@ -287,7 +312,7 @@
 # sent_id = 31
 # text = it aint hers.
 # previous = Does this belong to Alex?
-# comment = informal negation 
+# comment = informal negation
 1	it	it	PRON	VBZ	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
 2	ai	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	SpaceAfter=No
 3	nt	not	PART	RB	Polarity=Neg	4	advmod	_	_
@@ -297,7 +322,7 @@
 # sent_id = 32
 # text = it aint his.
 # previous = Does this belong to Alex?
-# comment = informal negation 
+# comment = informal negation
 1	it	it	PRON	VBZ	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
 2	ai	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	SpaceAfter=No
 3	nt	not	PART	RB	Polarity=Neg	4	advmod	_	_
@@ -307,7 +332,7 @@
 # sent_id = 33
 # text = it aint theirs.
 # previous = Does this belong to Alex?
-# comment = informal negation 
+# comment = informal negation
 1	it	it	PRON	VBZ	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
 2	ai	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	SpaceAfter=No
 3	nt	not	PART	RB	Polarity=Neg	4	advmod	_	_
@@ -317,7 +342,7 @@
 # sent_id = 34
 # text = it aint mine.
 # previous = Does this belong to Alex?
-# comment = informal negation 
+# comment = informal negation
 1	it	it	PRON	VBZ	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
 2	ai	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	SpaceAfter=No
 3	nt	not	PART	RB	Polarity=Neg	4	advmod	_	_
@@ -327,7 +352,7 @@
 # sent_id = 35
 # text = it aint yours.
 # previous = Does this belong to Alex?
-# comment = informal negation 
+# comment = informal negation
 1	it	it	PRON	VBZ	Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
 2	ai	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	cop	_	SpaceAfter=No
 3	nt	not	PART	RB	Polarity=Neg	4	advmod	_	_
@@ -337,7 +362,7 @@
 # sent_id = 36
 # text = The car is hers.
 # previous = Does the car belong to Alex?
-# comment = copular object 
+# comment = copular object
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	4	nsubj	_	_
 3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
@@ -347,7 +372,7 @@
 # sent_id = 37
 # text = The car is his.
 # previous = Does the car belong to Alex?
-# comment = copular object 
+# comment = copular object
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	4	nsubj	_	_
 3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
@@ -357,7 +382,7 @@
 # sent_id = 38
 # text = The car is theirs.
 # previous = Does the car belong to Alex?
-# comment = copular object 
+# comment = copular object
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	4	nsubj	_	_
 3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
@@ -367,7 +392,7 @@
 # sent_id = 39
 # text = The car is mine.
 # previous = Does the car belong to Alex?
-# comment = copular object 
+# comment = copular object
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	4	nsubj	_	_
 3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
@@ -377,7 +402,7 @@
 # sent_id = 40
 # text = The car is yours.
 # previous = Does the car belong to Alex?
-# comment = copular object 
+# comment = copular object
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	4	nsubj	_	_
 3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
@@ -387,9 +412,10 @@
 # sent_id = 41
 # text = The car's hers.
 # previous = Does the car belong to Alex?
-# comment = abbreviated copular object 
+# comment = abbreviated copular object
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
-2	car	car	NOUN	NN	Number=Sing	4	nsubj	_	SpaceAfter=No
+2-3	car's	_	_	_	_	_	_	_	_
+2	car	car	NOUN	NN	Number=Sing	4	nsubj	_	_
 3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 4	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	.	_	4	punct	_	_
@@ -397,9 +423,10 @@
 # sent_id = 42
 # text = The car's his.
 # previous = Does the car belong to Alex?
-# comment = abbreviated copular object 
+# comment = abbreviated copular object
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
-2	car	car	NOUN	NN	Number=Sing	4	nsubj	_	SpaceAfter=No
+2-3	car's	_	_	_	_	_	_	_	_
+2	car	car	NOUN	NN	Number=Sing	4	nsubj	_	_
 3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 4	his	his	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	.	_	4	punct	_	_
@@ -407,9 +434,10 @@
 # sent_id = 43
 # text = The car's theirs.
 # previous = Does the car belong to Alex?
-# comment = abbreviated copular object 
+# comment = abbreviated copular object
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
-2	car	car	NOUN	NN	Number=Sing	4	nsubj	_	SpaceAfter=No
+2-3	car's	_	_	_	_	_	_	_	_
+2	car	car	NOUN	NN	Number=Sing	4	nsubj	_	_
 3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 4	theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	.	_	4	punct	_	_
@@ -417,9 +445,10 @@
 # sent_id = 44
 # text = The car's mine.
 # previous = Does the car belong to Alex?
-# comment = abbreviated copular object 
+# comment = abbreviated copular object
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
-2	car	car	NOUN	NN	Number=Sing	4	nsubj	_	SpaceAfter=No
+2-3	car's	_	_	_	_	_	_	_	_
+2	car	car	NOUN	NN	Number=Sing	4	nsubj	_	_
 3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 4	mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	.	_	4	punct	_	_
@@ -427,9 +456,10 @@
 # sent_id = 45
 # text = The car's yours.
 # previous = Does the car belong to Alex?
-# comment = abbreviated copular object 
+# comment = abbreviated copular object
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
-2	car	car	NOUN	NN	Number=Sing	4	nsubj	_	SpaceAfter=No
+2-3	car's	_	_	_	_	_	_	_	_
+2	car	car	NOUN	NN	Number=Sing	4	nsubj	_	_
 3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 4	yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	.	_	4	punct	_	_
@@ -439,7 +469,8 @@
 # previous = Does the car belong to Alex?
 # comment = abbreviated copular object with predeterminer modifier
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
-2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	SpaceAfter=No
+2-3	car's	_	_	_	_	_	_	_	_
+2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
 3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 4	all	all	DET	DT	Case=Nom	5	nmod	_	_
 5	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
@@ -450,7 +481,8 @@
 # previous = Does the car belong to Alex?
 # comment = abbreviated copular object with predeterminer modifier
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
-2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	SpaceAfter=No
+2-3	car's	_	_	_	_	_	_	_	_
+2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
 3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 4	all	all	DET	DT	Case=Nom	5	nmod	_	_
 5	his	his	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
@@ -461,7 +493,8 @@
 # previous = Does the car belong to Alex?
 # comment = abbreviated copular object with predeterminer modifier
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
-2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	SpaceAfter=No
+2-3	car's	_	_	_	_	_	_	_	_
+2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
 3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 4	all	all	DET	DT	Case=Nom	5	nmod	_	_
 5	theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
@@ -472,7 +505,8 @@
 # previous = Does the car belong to Alex?
 # comment = abbreviated copular object with predeterminer modifier
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
-2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	SpaceAfter=No
+2-3	car's	_	_	_	_	_	_	_	_
+2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
 3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 4	all	all	DET	DT	Case=Nom	5	nmod	_	_
 5	mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
@@ -483,7 +517,8 @@
 # previous = Does the car belong to Alex?
 # comment = abbreviated copular object with predeterminer modifier
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
-2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	SpaceAfter=No
+2-3	car's	_	_	_	_	_	_	_	_
+2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
 3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 4	all	all	DET	DT	Case=Nom	5	nmod	_	_
 5	yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
@@ -494,7 +529,8 @@
 # previous = Does the car belong to Alex?
 # comment = abbreviated copular object with adverbial modifier
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
-2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	SpaceAfter=No
+2-3	car's	_	_	_	_	_	_	_	_
+2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
 3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 4	mostly	mostly	ADV	RB	_	5	advmod	_	_
 5	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
@@ -505,7 +541,8 @@
 # previous = Does the car belong to Alex?
 # comment = abbreviated copular object with adverbial modifier
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
-2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	SpaceAfter=No
+2-3	car's	_	_	_	_	_	_	_	_
+2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
 3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 4	mostly	mostly	ADV	RB	_	5	advmod	_	_
 5	his	his	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
@@ -516,7 +553,8 @@
 # previous = Does the car belong to Alex?
 # comment = abbreviated copular object with adverbial modifier
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
-2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	SpaceAfter=No
+2-3	car's	_	_	_	_	_	_	_	_
+2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
 3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 4	mostly	mostly	ADV	RB	_	5	advmod	_	_
 5	theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
@@ -527,7 +565,8 @@
 # previous = Does the car belong to Alex?
 # comment = abbreviated copular object with adverbial modifier
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
-2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	SpaceAfter=No
+2-3	car's	_	_	_	_	_	_	_	_
+2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
 3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 4	mostly	mostly	ADV	RB	_	5	advmod	_	_
 5	mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
@@ -538,7 +577,8 @@
 # previous = Does the car belong to Alex?
 # comment = abbreviated copular object with adverbial modifier
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
-2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	SpaceAfter=No
+2-3	car's	_	_	_	_	_	_	_	_
+2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
 3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 4	mostly	mostly	ADV	RB	_	5	advmod	_	_
 5	yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
@@ -547,9 +587,10 @@
 # sent_id = 56
 # text = The car's not hers!
 # previous = Does the car belong to Alex?
-# comment = abbreviated copular object with negation 
+# comment = abbreviated copular object with negation
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
-2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	SpaceAfter=No
+2-3	car's	_	_	_	_	_	_	_	_
+2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
 3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 4	not	not	PART	RB	Polarity=Neg	5	advmod	_	_
 5	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
@@ -558,9 +599,10 @@
 # sent_id = 57
 # text = The car's not his!
 # previous = Does the car belong to Alex?
-# comment = abbreviated copular object with negation 
+# comment = abbreviated copular object with negation
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
-2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	SpaceAfter=No
+2-3	car's	_	_	_	_	_	_	_	_
+2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
 3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 4	not	not	PART	RB	Polarity=Neg	5	advmod	_	_
 5	his	his	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
@@ -569,9 +611,10 @@
 # sent_id = 58
 # text = The car's not theirs!
 # previous = Does the car belong to Alex?
-# comment = abbreviated copular object with negation 
+# comment = abbreviated copular object with negation
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
-2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	SpaceAfter=No
+2-3	car's	_	_	_	_	_	_	_	_
+2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
 3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 4	not	not	PART	RB	Polarity=Neg	5	advmod	_	_
 5	theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
@@ -580,9 +623,10 @@
 # sent_id = 59
 # text = The car's not mine!
 # previous = Does the car belong to Alex?
-# comment = abbreviated copular object with negation 
+# comment = abbreviated copular object with negation
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
-2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	SpaceAfter=No
+2-3	car's	_	_	_	_	_	_	_	_
+2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
 3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 4	not	not	PART	RB	Polarity=Neg	5	advmod	_	_
 5	mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
@@ -591,9 +635,10 @@
 # sent_id = 60
 # text = The car's not yours!
 # previous = Does the car belong to Alex?
-# comment = abbreviated copular object with negation 
+# comment = abbreviated copular object with negation
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
-2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	SpaceAfter=No
+2-3	car's	_	_	_	_	_	_	_	_
+2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
 3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 4	not	not	PART	RB	Polarity=Neg	5	advmod	_	_
 5	yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
@@ -605,7 +650,8 @@
 # comment = copular object with abbreviated negation
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
-3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	SpaceAfter=No
+3-4	isn't	_	_	_	_	_	_	_	_
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 4	n't	not	PART	RB	Polarity=Neg	5	advmod	_	_
 5	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	.	_	5	punct	_	_
@@ -616,7 +662,8 @@
 # comment = copular object with abbreviated negation
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
-3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	SpaceAfter=No
+3-4	isn't	_	_	_	_	_	_	_	_
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 4	n't	not	PART	RB	Polarity=Neg	5	advmod	_	_
 5	his	his	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	.	_	5	punct	_	_
@@ -627,7 +674,8 @@
 # comment = copular object with abbreviated negation
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
-3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	SpaceAfter=No
+3-4	isn't	_	_	_	_	_	_	_	_
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 4	n't	not	PART	RB	Polarity=Neg	5	advmod	_	_
 5	theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	.	_	5	punct	_	_
@@ -638,7 +686,8 @@
 # comment = copular object with abbreviated negation
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
-3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	SpaceAfter=No
+3-4	isn't	_	_	_	_	_	_	_	_
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 4	n't	not	PART	RB	Polarity=Neg	5	advmod	_	_
 5	mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	.	_	5	punct	_	_
@@ -649,7 +698,8 @@
 # comment = copular object with abbreviated negation
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
-3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	SpaceAfter=No
+3-4	isn't	_	_	_	_	_	_	_	_
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 4	n't	not	PART	RB	Polarity=Neg	5	advmod	_	_
 5	yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	.	_	5	punct	_	_
@@ -712,7 +762,7 @@
 # sent_id = 71
 # text = Any car of hers sells quickly.
 # previous = Will Alex's car sell quickly?
-# comment = of genitive in subject 
+# comment = of genitive in subject
 1	Any	any	DET	DT	PronType=Ind	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
 3	of	of	ADP	IN	_	4	case	_	_
@@ -724,7 +774,7 @@
 # sent_id = 72
 # text = Any car of his sells quickly.
 # previous = Will Alex's car sell quickly?
-# comment = of genitive in subject 
+# comment = of genitive in subject
 1	Any	any	DET	DT	PronType=Ind	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
 3	of	of	ADP	IN	_	4	case	_	_
@@ -736,7 +786,7 @@
 # sent_id = 73
 # text = Any car of theirs sells quickly.
 # previous = Will Alex's car sell quickly?
-# comment = of genitive in subject 
+# comment = of genitive in subject
 1	Any	any	DET	DT	PronType=Ind	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
 3	of	of	ADP	IN	_	4	case	_	_
@@ -748,7 +798,7 @@
 # sent_id = 74
 # text = Any car of mine sells quickly.
 # previous = Will your car sell quickly?
-# comment = of genitive in subject 
+# comment = of genitive in subject
 1	Any	any	DET	DT	PronType=Ind	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
 3	of	of	ADP	IN	_	4	case	_	_
@@ -760,7 +810,7 @@
 # sent_id = 75
 # text = Any car of yours sells quickly.
 # previous = Will my car sell quickly?
-# comment = of genitive in subject 
+# comment = of genitive in subject
 1	Any	any	DET	DT	PronType=Ind	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
 3	of	of	ADP	IN	_	4	case	_	_
@@ -1107,7 +1157,7 @@
 # sent_id = 111
 # text = Dealers saw hers.
 # previous = Which cars did dealers see?
-# comment = direct object to irregular transitive verb (accusative, absolutive) 
+# comment = direct object to irregular transitive verb (accusative, absolutive)
 1	Dealers	dealer	NOUN	NNS	Number=Plur	2	nsubj	_	_
 2	saw	see	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	obj	_	SpaceAfter=No
@@ -1116,7 +1166,7 @@
 # sent_id = 112
 # text = Dealers saw his.
 # previous = Which cars did dealers see?
-# comment = direct object to irregular transitive verb (accusative, absolutive) 
+# comment = direct object to irregular transitive verb (accusative, absolutive)
 1	Dealers	dealer	NOUN	NNS	Number=Plur	2	nsubj	_	_
 2	saw	see	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	his	his	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	obj	_	SpaceAfter=No
@@ -1125,7 +1175,7 @@
 # sent_id = 113
 # text = Dealers saw theirs.
 # previous = Which cars did dealers see?
-# comment = direct object to irregular transitive verb (accusative, absolutive) 
+# comment = direct object to irregular transitive verb (accusative, absolutive)
 1	Dealers	dealer	NOUN	NNS	Number=Plur	2	nsubj	_	_
 2	saw	see	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	obj	_	SpaceAfter=No
@@ -1134,7 +1184,7 @@
 # sent_id = 114
 # text = Dealers saw mine.
 # previous = Which cars did dealers see?
-# comment = direct object to irregular transitive verb (accusative, absolutive) 
+# comment = direct object to irregular transitive verb (accusative, absolutive)
 1	Dealers	dealer	NOUN	NNS	Number=Plur	2	nsubj	_	_
 2	saw	see	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
 3	mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	obj	_	SpaceAfter=No
@@ -1143,7 +1193,7 @@
 # sent_id = 115
 # text = Dealers saw yours.
 # previous = Which cars did dealers see?
-# comment = direct object to irregular transitive verb (accusative, absolutive) 
+# comment = direct object to irregular transitive verb (accusative, absolutive)
 1	Dealers	dealer	NOUN	NNS	Number=Plur	2	nsubj	_	_
 2	saw	see	VERB	VBD	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	_
 3	yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	2	obj	_	SpaceAfter=No
@@ -1514,7 +1564,8 @@
 # previous = Did the dealer's cars and Alex's sell quickly?
 # comment = dependent part of conjunction
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
-2	dealer	dealer	NOUN	NN	Number=Sing	4	nsubj	_	SpaceAfter=No
+2-3	dealer's	_	_	_	_	_	_	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	4	nsubj	_	_
 3	's	's	PART	POS	_	2	case	_	_
 4	cars	car	NOUN	NNS	Number=Plur	7	nsubj	_	_
 5	and	and	CCONJ	CC	_	6	cc	_	_
@@ -1528,7 +1579,8 @@
 # previous = Did the dealer's cars and Alex's sell quickly?
 # comment = dependent part of conjunction
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
-2	dealer	dealer	NOUN	NN	Number=Sing	4	nsubj	_	SpaceAfter=No
+2-3	dealer's	_	_	_	_	_	_	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	4	nsubj	_	_
 3	's	's	PART	POS	_	2	case	_	_
 4	cars	car	NOUN	NNS	Number=Plur	7	nsubj	_	_
 5	and	and	CCONJ	CC	_	6	cc	_	_
@@ -1542,7 +1594,8 @@
 # previous = Did the dealer's cars and Alex's sell quickly?
 # comment = dependent part of conjunction
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
-2	dealer	dealer	NOUN	NN	Number=Sing	4	nsubj	_	SpaceAfter=No
+2-3	dealer's	_	_	_	_	_	_	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	4	nsubj	_	_
 3	's	's	PART	POS	_	2	case	_	_
 4	cars	car	NOUN	NNS	Number=Plur	7	nsubj	_	_
 5	and	and	CCONJ	CC	_	6	cc	_	_
@@ -1556,7 +1609,8 @@
 # previous = Did the dealer's cars and your sell quickly?
 # comment = dependent part of conjunction
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
-2	dealer	dealer	NOUN	NN	Number=Sing	4	nsubj	_	SpaceAfter=No
+2-3	dealer's	_	_	_	_	_	_	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	4	nsubj	_	_
 3	's	's	PART	POS	_	2	case	_	_
 4	cars	car	NOUN	NNS	Number=Plur	7	nsubj	_	_
 5	and	and	CCONJ	CC	_	6	cc	_	_
@@ -1570,7 +1624,8 @@
 # previous = Did the dealer's cars and my sell quickly?
 # comment = dependent part of conjunction
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
-2	dealer	dealer	NOUN	NN	Number=Sing	4	nsubj	_	SpaceAfter=No
+2-3	dealer's	_	_	_	_	_	_	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	4	nsubj	_	_
 3	's	's	PART	POS	_	2	case	_	_
 4	cars	car	NOUN	NNS	Number=Plur	7	nsubj	_	_
 5	and	and	CCONJ	CC	_	6	cc	_	_
@@ -1586,11 +1641,12 @@
 1	Hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
 2	and	and	CCONJ	CC	_	4	cc	_	_
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_
-4	dealer	dealer	NOUN	NN	Number=Sing	1	conj	_	SpaceAfter=No
+4-5	dealer's	_	_	_	_	_	_	_	_
+4	dealer	dealer	NOUN	NN	Number=Sing	1	conj	_	_
 5	's	's	PART	POS	_	4	case	_	_
 6	sold	sell	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 7	quickly	quickly	ADV	RB	_	6	advmod	_	SpaceAfter=No
-8	.	.	PUNCT	.	_	7	punct	_	_
+8	.	.	PUNCT	.	_	6	punct	_	_
 
 # sent_id = 152
 # text = His and the dealer's sold quickly.
@@ -1599,11 +1655,12 @@
 1	His	his	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
 2	and	and	CCONJ	CC	_	4	cc	_	_
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_
-4	dealer	dealer	NOUN	NN	Number=Sing	1	conj	_	SpaceAfter=No
+4-5	dealer's	_	_	_	_	_	_	_	_
+4	dealer	dealer	NOUN	NN	Number=Sing	1	conj	_	_
 5	's	's	PART	POS	_	4	case	_	_
 6	sold	sell	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 7	quickly	quickly	ADV	RB	_	6	advmod	_	SpaceAfter=No
-8	.	.	PUNCT	.	_	7	punct	_	_
+8	.	.	PUNCT	.	_	6	punct	_	_
 
 # sent_id = 153
 # text = Theirs and the dealer's sold quickly.
@@ -1612,11 +1669,12 @@
 1	Theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
 2	and	and	CCONJ	CC	_	4	cc	_	_
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_
-4	dealer	dealer	NOUN	NN	Number=Sing	1	conj	_	SpaceAfter=No
+4-5	dealer's	_	_	_	_	_	_	_	_
+4	dealer	dealer	NOUN	NN	Number=Sing	1	conj	_	_
 5	's	's	PART	POS	_	4	case	_	_
 6	sold	sell	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 7	quickly	quickly	ADV	RB	_	6	advmod	_	SpaceAfter=No
-8	.	.	PUNCT	.	_	7	punct	_	_
+8	.	.	PUNCT	.	_	6	punct	_	_
 
 # sent_id = 154
 # text = Mine and the dealer's sold quickly.
@@ -1625,11 +1683,12 @@
 1	Mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nsubj	_	_
 2	and	and	CCONJ	CC	_	4	cc	_	_
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_
-4	dealer	dealer	NOUN	NN	Number=Sing	1	conj	_	SpaceAfter=No
+4-5	dealer's	_	_	_	_	_	_	_	_
+4	dealer	dealer	NOUN	NN	Number=Sing	1	conj	_	_
 5	's	's	PART	POS	_	4	case	_	_
 6	sold	sell	VERB	VBD	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
 7	quickly	quickly	ADV	RB	_	6	advmod	_	SpaceAfter=No
-8	.	.	PUNCT	.	_	7	punct	_	_
+8	.	.	PUNCT	.	_	6	punct	_	_
 
 # sent_id = 155
 # text = Yours and the dealer's sold quickly.
@@ -1638,11 +1697,12 @@
 1	Yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	6	nsubj	_	_
 2	and	and	CCONJ	CC	_	4	cc	_	_
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_
-4	dealer	dealer	NOUN	NN	Number=Sing	1	conj	_	SpaceAfter=No
+4-5	dealer's	_	_	_	_	_	_	_	_
+4	dealer	dealer	NOUN	NN	Number=Sing	1	conj	_	_
 5	's	's	PART	POS	_	4	case	_	_
 6	sold	sell	VERB	VBD	Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin	0	root	_	_
 7	quickly	quickly	ADV	RB	_	6	advmod	_	SpaceAfter=No
-8	.	.	PUNCT	.	_	7	punct	_	_
+8	.	.	PUNCT	.	_	6	punct	_	_
 
 # sent_id = 156
 # text = The dealer cleaned the car before hers.
@@ -1827,62 +1887,62 @@
 # sent_id = 171
 # text = The car of hers drove responsively.
 # previous = What happened to Alex's car?
-# comment = "of" genitive in subject of active sentence 
+# comment = "of" genitive in subject of active sentence
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
 3	of	of	ADP	IN	_	4	case	_	_
 4	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod	_	_
 5	drove	drive	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 6	responsively	responsively	ADV	RB	_	5	advmod	_	SpaceAfter=No
-7	.	.	PUNCT	.	_	6	punct	_	_
+7	.	.	PUNCT	.	_	5	punct	_	_
 
 # sent_id = 172
 # text = The car of his drove responsively.
 # previous = What happened to Alex's car?
-# comment = "of" genitive in subject of active sentence 
+# comment = "of" genitive in subject of active sentence
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
 3	of	of	ADP	IN	_	4	case	_	_
 4	his	his	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod	_	_
 5	drove	drive	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 6	responsively	responsively	ADV	RB	_	5	advmod	_	SpaceAfter=No
-7	.	.	PUNCT	.	_	6	punct	_	_
+7	.	.	PUNCT	.	_	5	punct	_	_
 
 # sent_id = 173
 # text = The car of theirs drove responsively.
 # previous = What happened to Alex's car?
-# comment = "of" genitive in subject of active sentence 
+# comment = "of" genitive in subject of active sentence
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
 3	of	of	ADP	IN	_	4	case	_	_
 4	theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod	_	_
 5	drove	drive	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 6	responsively	responsively	ADV	RB	_	5	advmod	_	SpaceAfter=No
-7	.	.	PUNCT	.	_	6	punct	_	_
+7	.	.	PUNCT	.	_	5	punct	_	_
 
 # sent_id = 174
 # text = The car of mine drove responsively.
 # previous = What happened to your car?
-# comment = "of" genitive in subject of active sentence 
+# comment = "of" genitive in subject of active sentence
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
 3	of	of	ADP	IN	_	4	case	_	_
 4	mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod	_	_
 5	drove	drive	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
 6	responsively	responsively	ADV	RB	_	5	advmod	_	SpaceAfter=No
-7	.	.	PUNCT	.	_	6	punct	_	_
+7	.	.	PUNCT	.	_	5	punct	_	_
 
 # sent_id = 175
 # text = The car of yours drove responsively.
 # previous = What happened to my car?
-# comment = "of" genitive in subject of active sentence 
+# comment = "of" genitive in subject of active sentence
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
 3	of	of	ADP	IN	_	4	case	_	_
 4	yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	2	nmod	_	_
 5	drove	drive	VERB	VBD	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	_
 6	responsively	responsively	ADV	RB	_	5	advmod	_	SpaceAfter=No
-7	.	.	PUNCT	.	_	6	punct	_	_
+7	.	.	PUNCT	.	_	5	punct	_	_
 
 # sent_id = 176
 # text = The dealer cleaned the car of hers.
@@ -2393,7 +2453,8 @@
 # text = Hers'll do.
 # previous = Which person's car do we want?
 # comment = with auxiliary suffix
-1	Hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nsubj	_	SpaceAfter=No
+1-2	Hers'll	_	_	_	_	_	_	_	_
+1	Hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nsubj	_	_
 2	'll	will	AUX	MD	VerbForm=Fin	3	aux	_	_
 3	do	do	VERB	VB	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	.	_	3	punct	_	_
@@ -2402,7 +2463,8 @@
 # text = His'll do.
 # previous = Which person's car do we want?
 # comment = with auxiliary suffix
-1	His	his	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nsubj	_	SpaceAfter=No
+1-2	His'll	_	_	_	_	_	_	_	_
+1	His	his	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nsubj	_	_
 2	'll	will	AUX	MD	VerbForm=Fin	3	aux	_	_
 3	do	do	VERB	VB	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	.	_	3	punct	_	_
@@ -2411,7 +2473,8 @@
 # text = Theirs'll do.
 # previous = Which person's car do we want?
 # comment = with auxiliary suffix
-1	Theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nsubj	_	SpaceAfter=No
+1-2	Theirs'll	_	_	_	_	_	_	_	_
+1	Theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nsubj	_	_
 2	'll	will	AUX	MD	VerbForm=Fin	3	aux	_	_
 3	do	do	VERB	VB	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	.	_	3	punct	_	_
@@ -2420,7 +2483,8 @@
 # text = Mine'll do.
 # previous = Which person's car do we want?
 # comment = with auxiliary suffix
-1	Mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nsubj	_	SpaceAfter=No
+1-2	Mine'll	_	_	_	_	_	_	_	_
+1	Mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nsubj	_	_
 2	'll	will	AUX	MD	VerbForm=Fin	3	aux	_	_
 3	do	do	VERB	VB	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	.	_	3	punct	_	_
@@ -2429,7 +2493,8 @@
 # text = Yours'll do.
 # previous = Which person's car do we want?
 # comment = with auxiliary suffix
-1	Yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	3	nsubj	_	SpaceAfter=No
+1-2	Yours'll	_	_	_	_	_	_	_	_
+1	Yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	3	nsubj	_	_
 2	'll	will	AUX	MD	VerbForm=Fin	3	aux	_	_
 3	do	do	VERB	VB	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	.	_	3	punct	_	_
@@ -2887,7 +2952,7 @@
 # sent_id = 261
 # text = The dealer recommended that hers get painted.
 # previous = Where did the dealer say about Alex's car?
-# comment = subjunctive 
+# comment = subjunctive
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
 3	recommended	recommend	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -2900,7 +2965,7 @@
 # sent_id = 262
 # text = The dealer recommended that his get painted.
 # previous = Where did the dealer say about Alex's car?
-# comment = subjunctive 
+# comment = subjunctive
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
 3	recommended	recommend	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -2913,7 +2978,7 @@
 # sent_id = 263
 # text = The dealer recommended that theirs get painted.
 # previous = Where did the dealer say about Alex's car?
-# comment = subjunctive 
+# comment = subjunctive
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
 3	recommended	recommend	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -2926,7 +2991,7 @@
 # sent_id = 264
 # text = The dealer recommended that mine get painted.
 # previous = Where did the dealer say about your car?
-# comment = subjunctive 
+# comment = subjunctive
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
 3	recommended	recommend	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -2939,7 +3004,7 @@
 # sent_id = 265
 # text = The dealer recommended that yours get painted.
 # previous = Where did the dealer say about my car?
-# comment = subjunctive 
+# comment = subjunctive
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
 3	recommended	recommend	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -2997,8 +3062,8 @@
 2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	easy	easy	ADJ	JJ	Degree=Pos	0	root	_	_
 4	to	to	PART	TO	_	5	mark	_	_
-5	clean	clean	VERB	VB	VerbForm=Inf	3	csubj	_	SpaceAfter=No
-6	.	.	PUNCT	.	_	5	punct	_	_
+5	clean	clean	VERB	VB	VerbForm=Inf	3	advcl	_	SpaceAfter=No
+6	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = 272
 # text = His is easy to clean.
@@ -3008,8 +3073,8 @@
 2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	easy	easy	ADJ	JJ	Degree=Pos	0	root	_	_
 4	to	to	PART	TO	_	5	mark	_	_
-5	clean	clean	VERB	VB	VerbForm=Inf	3	csubj	_	SpaceAfter=No
-6	.	.	PUNCT	.	_	5	punct	_	_
+5	clean	clean	VERB	VB	VerbForm=Inf	3	advcl	_	SpaceAfter=No
+6	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = 273
 # text = Theirs is easy to clean.
@@ -3019,8 +3084,8 @@
 2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	easy	easy	ADJ	JJ	Degree=Pos	0	root	_	_
 4	to	to	PART	TO	_	5	mark	_	_
-5	clean	clean	VERB	VB	VerbForm=Inf	3	csubj	_	SpaceAfter=No
-6	.	.	PUNCT	.	_	5	punct	_	_
+5	clean	clean	VERB	VB	VerbForm=Inf	3	advcl	_	SpaceAfter=No
+6	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = 274
 # text = Mine is easy to clean.
@@ -3030,8 +3095,8 @@
 2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	easy	easy	ADJ	JJ	Degree=Pos	0	root	_	_
 4	to	to	PART	TO	_	5	mark	_	_
-5	clean	clean	VERB	VB	VerbForm=Inf	3	csubj	_	SpaceAfter=No
-6	.	.	PUNCT	.	_	5	punct	_	_
+5	clean	clean	VERB	VB	VerbForm=Inf	3	advcl	_	SpaceAfter=No
+6	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = 275
 # text = Yours is easy to clean.
@@ -3041,8 +3106,8 @@
 2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	easy	easy	ADJ	JJ	Degree=Pos	0	root	_	_
 4	to	to	PART	TO	_	5	mark	_	_
-5	clean	clean	VERB	VB	VerbForm=Inf	3	csubj	_	SpaceAfter=No
-6	.	.	PUNCT	.	_	5	punct	_	_
+5	clean	clean	VERB	VB	VerbForm=Inf	3	advcl	_	SpaceAfter=No
+6	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = 276
 # text = Hers parks.

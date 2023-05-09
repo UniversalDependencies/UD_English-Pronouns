@@ -5,14 +5,14 @@
        fused is the number of tokens that are split to two or more syntactic words
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
-    <total><sentences>285</sentences><tokens>1705</tokens><words>1705</words><fused>0</fused></total>
+    <total><sentences>285</sentences><tokens>1640</tokens><words>1705</words><fused>65</fused></total>
     <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
     <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
-    <test><sentences>285</sentences><tokens>1705</tokens><words>1705</words><fused>0</fused></test>
+    <test><sentences>285</sentences><tokens>1640</tokens><words>1705</words><fused>65</fused></test>
   </size>
   <lemmas unique="63" /><!-- ., the, dealer, be, car, clean, hers, his, mine, theirs, yours, it, ,, like, not -->
   <forms unique="77" /><!-- ., the, dealer, car, hers, his, mine, theirs, yours, cleaned, 's, dealers, is, it, , -->
-  <fusions unique="0" /><!--  -->
+  <fusions unique="9" /><!-- It's, car's, dealer's, isn't, Hers'll, His'll, Mine'll, Theirs'll, Yours'll -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="13">
     <tag name="ADJ">20</tag><!-- fresh, easy, nice -->
@@ -59,8 +59,8 @@
     <feat name="VerbForm" value="Part" upos="VERB">45</feat><!-- cleaned, seeing, cleaning, painted -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="26">
-    <dep name="advcl">5</dep>
+  <deps unique="25">
+    <dep name="advcl">10</dep>
     <dep name="advmod">85</dep>
     <dep name="amod">10</dep>
     <dep name="appos">5</dep>
@@ -71,7 +71,6 @@
     <dep name="ccomp">25</dep>
     <dep name="conj">20</dep>
     <dep name="cop">80</dep>
-    <dep name="csubj">5</dep>
     <dep name="det">185</dep>
     <dep name="det:predet">5</dep>
     <dep name="expl">5</dep>
