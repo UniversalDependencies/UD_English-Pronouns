@@ -31,7 +31,6 @@
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="26">
-    <feat name="Case" value="Nom" upos="DET">10</feat><!-- all -->
     <feat name="Definite" value="Def" upos="DET">180</feat><!-- the -->
     <feat name="Degree" value="Pos" upos="ADJ">5</feat><!-- easy -->
     <feat name="Gender" value="Fem" upos="PRON">57</feat><!-- hers -->
@@ -51,6 +50,7 @@
     <feat name="PronType" value="Art" upos="DET">180</feat><!-- the -->
     <feat name="PronType" value="Ind" upos="DET">5</feat><!-- Any -->
     <feat name="PronType" value="Prs" upos="PRON">320</feat><!-- hers, his, mine, theirs, yours, it -->
+    <feat name="PronType" value="Tot" upos="DET">10</feat><!-- all -->
     <feat name="Tense" value="Past" upos="AUX,VERB">200</feat><!-- cleaned, was, drove, sold, gave, knew, liked, accelerated, broke, came -->
     <feat name="Tense" value="Pres" upos="AUX,VERB">160</feat><!-- 's, is, like, seeing, ai, Take, cleaning, do, get, parks -->
     <feat name="VerbForm" value="Fin" upos="AUX,VERB">320</feat><!-- 's, is, cleaned, was, like, drove, sold, ai, gave, knew -->
