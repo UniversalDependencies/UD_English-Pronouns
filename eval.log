@@ -1,10 +1,10 @@
 Running the following version of UD tools:
-commit e9726a6a7d6913193d90edb45a4cb549235c5b16
+commit 78ce4b21495c6e4c17a7b07925bec1267d833d14
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sat Nov 4 17:10:55 2023 +0100
+Date:   Sun May 5 09:21:16 2024 +0200
 Evaluating the following revision of UD_English-Pronouns:
-commit c38499a287604e4f0aa332ed15d06f6b43156045
-Merge: bee92e7 342d2cf
+commit a46eec347036b9fd5b14bc8dedc3f25e208e240b
+Merge: 1d2c475 5ed14b1
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Size: counted 1705 of 1705 words (nodes).
 Size: min(0, log((N/1000)**2)) = 1.06713022147096.
