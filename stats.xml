@@ -10,7 +10,7 @@
     <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
     <test><sentences>285</sentences><tokens>1640</tokens><words>1705</words><fused>65</fused></test>
   </size>
-  <lemmas unique="63" /><!-- ., the, dealer, be, car, clean, hers, his, mine, theirs, yours, it, ,, like, not -->
+  <lemmas unique="63" /><!-- ., the, dealer, be, car, clean, her, his, my, their, your, it, ,, like, not -->
   <forms unique="77" /><!-- ., the, dealer, car, hers, his, mine, theirs, yours, cleaned, 's, dealers, is, it, , -->
   <fusions unique="9" /><!-- It's, car's, dealer's, isn't, Hers'll, His'll, Mine'll, Theirs'll, Yours'll -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
@@ -24,7 +24,7 @@
     <tag name="NOUN">240</tag><!-- dealer, car, paint, bump -->
     <tag name="NUM">5</tag><!-- one -->
     <tag name="PART">45</tag><!-- not, 's, to -->
-    <tag name="PRON">330</tag><!-- hers, his, mine, theirs, yours, it, there -->
+    <tag name="PRON">330</tag><!-- her, his, my, their, your, it, there -->
     <tag name="PUNCT">320</tag><!-- ., ,, !, : -->
     <tag name="SCONJ">25</tag><!-- that -->
     <tag name="VERB">265</tag><!-- clean, like, sell, see, drive, be, get, give, know, accelerate -->
