@@ -130,6 +130,7 @@ One set of sentences were created, each with a Independent pronoun in them (like
 Data available since: UD v2.5
 License: CC BY-SA 4.0
 Includes text: yes
+Parallel: no
 Genre: grammar-examples
 Lemmas: manual native
 UPOS: manual native
