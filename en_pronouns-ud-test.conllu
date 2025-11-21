@@ -823,46 +823,46 @@
 # text = There is hers.
 # previous = Where is Alex's car?
 # comment = expositional subject
-1	There	there	PRON	EX	_	2	expl	_	_
-2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	hers	her	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nsubj	_	SpaceAfter=No
-4	.	.	PUNCT	.	_	2	punct	_	_
+1	There	there	ADV	RB	PronType=Dem	0	root	_	_
+2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
+3	hers	her	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	1	nsubj	_	SpaceAfter=No
+4	.	.	PUNCT	.	_	1	punct	_	_
 
 # sent_id = 77
 # text = There is his.
 # previous = Where is Alex's car?
 # comment = expositional subject
-1	There	there	PRON	EX	_	2	expl	_	_
-2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	his	his	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nsubj	_	SpaceAfter=No
-4	.	.	PUNCT	.	_	2	punct	_	_
+1	There	there	ADV	RB	PronType=Dem	0	root	_	_
+2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
+3	his	his	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	1	nsubj	_	SpaceAfter=No
+4	.	.	PUNCT	.	_	1	punct	_	_
 
 # sent_id = 78
 # text = There is theirs.
 # previous = Where is Alex's car?
 # comment = expositional subject
-1	There	there	PRON	EX	_	2	expl	_	_
-2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	theirs	their	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nsubj	_	SpaceAfter=No
-4	.	.	PUNCT	.	_	2	punct	_	_
+1	There	there	ADV	RB	PronType=Dem	0	root	_	_
+2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
+3	theirs	their	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	1	nsubj	_	SpaceAfter=No
+4	.	.	PUNCT	.	_	1	punct	_	_
 
 # sent_id = 79
 # text = There is mine.
 # previous = Where is your car?
 # comment = expositional subject
-1	There	there	PRON	EX	_	2	expl	_	_
-2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	mine	my	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nsubj	_	SpaceAfter=No
-4	.	.	PUNCT	.	_	2	punct	_	_
+1	There	there	ADV	RB	PronType=Dem	0	root	_	_
+2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
+3	mine	my	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	1	nsubj	_	SpaceAfter=No
+4	.	.	PUNCT	.	_	1	punct	_	_
 
 # sent_id = 80
 # text = There is yours.
 # previous = Where is my car?
 # comment = expositional subject
-1	There	there	PRON	EX	_	2	expl	_	_
-2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	yours	your	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	2	nsubj	_	SpaceAfter=No
-4	.	.	PUNCT	.	_	2	punct	_	_
+1	There	there	ADV	RB	PronType=Dem	0	root	_	_
+2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
+3	yours	your	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	1	nsubj	_	SpaceAfter=No
+4	.	.	PUNCT	.	_	1	punct	_	_
 
 # sent_id = 81
 # text = The car is at hers.
