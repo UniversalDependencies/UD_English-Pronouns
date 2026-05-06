@@ -1,10 +1,10 @@
 Running the following version of UD tools:
-commit 26e6c87a2f518322d15901a351199b6be6569062
+commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri Nov 7 15:39:58 2025 +0100
+Date:   Tue May 5 17:01:41 2026 +0200
 Evaluating the following revision of UD_English-Pronouns:
-commit 0d17ecc7caa9cb7560e04ff8062e06a179e22560
-Merge: 189912d 5e6eda8
+commit 05d8fdc20fefd5b24428469df33c741fb7d62522
+Merge: e4fdbb1 9c330df
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'en_pronouns'
@@ -19,24 +19,18 @@ Split: Did not find at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 1.
 Universal POS tags: 13 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 1.
-Features: 1170 out of 1705 total words have one or more features.
+Features: 1180 out of 1705 total words have one or more features.
 Features: source of annotation (from README) factor is 1.
-Universal relations: 23 out of 37 found in the corpus.
+Universal relations: 22 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Genres: found 1 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang en --max-err=10 UD_English-Pronouns/en_pronouns-ud-test.conllu
-[Line 826 Sent 76]: [L3 Warning pron-det-without-prontype] The word 'There' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 835 Sent 77]: [L3 Warning pron-det-without-prontype] The word 'There' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 844 Sent 78]: [L3 Warning pron-det-without-prontype] The word 'There' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 853 Sent 79]: [L3 Warning pron-det-without-prontype] The word 'There' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 862 Sent 80]: [L3 Warning pron-det-without-prontype] The word 'There' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 2387 Sent 211]: [L3 Warning pron-det-without-prontype] The word 'it' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 2402 Sent 212]: [L3 Warning pron-det-without-prontype] The word 'it' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 2417 Sent 213]: [L3 Warning pron-det-without-prontype] The word 'it' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 2432 Sent 214]: [L3 Warning pron-det-without-prontype] The word 'it' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 2447 Sent 215]: [L3 Warning pron-det-without-prontype] The word 'it' is tagged 'PRON' but it lacks the 'PronType' feature
-...suppressing further errors regarding Warning
-Warnings: 15
+[Line 2458 Sent 216]: [L3 WARNING verbform-fin-without-mood] Finite verb ''ll' lacks the 'Mood' feature
+[Line 2468 Sent 217]: [L3 WARNING verbform-fin-without-mood] Finite verb ''ll' lacks the 'Mood' feature
+[Line 2478 Sent 218]: [L3 WARNING verbform-fin-without-mood] Finite verb ''ll' lacks the 'Mood' feature
+[Line 2488 Sent 219]: [L3 WARNING verbform-fin-without-mood] Finite verb ''ll' lacks the 'Mood' feature
+[Line 2498 Sent 220]: [L3 WARNING verbform-fin-without-mood] Finite verb ''ll' lacks the 'Mood' feature
+Warnings: 5
 *** PASSED ***
 Validity: 1
 (weight=0.111111111111111) * (score{features}=1) = 0.111111111111111
@@ -45,7 +39,7 @@ Validity: 1
 (weight=0.37037037037037) * (score{size}=0.0772414611095055) = 0.0286079485590761
 (weight=0.0740740740740741) * (score{split}=0.01) = 0.000740740740740741
 (weight=0.111111111111111) * (score{tags}=0.764705882352941) = 0.0849673202614379
-(weight=0.111111111111111) * (score{udeprels}=0.621621621621622) = 0.0690690690690691
-(TOTAL score=0.411780140358719) * (availability=1) * (validity=1) = 0.411780140358719
+(weight=0.111111111111111) * (score{udeprels}=0.594594594594595) = 0.0660660660660661
+(TOTAL score=0.408777137355716) * (availability=1) * (validity=1) = 0.408777137355716
 STARS = 2
-UD_English-Pronouns	0.411780140358719	2
+UD_English-Pronouns	0.408777137355716	2
